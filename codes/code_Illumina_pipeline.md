@@ -28,28 +28,31 @@ This is the result of an ongoing joint-effort of the following institutions and 
 # Code for Illumina short-reads processing #
 ## Table of contents ##
 <ul>
-<li><a href="#1">1. Quality Control of raw reads with FastQC</a></li>
-<li><a href="#2">2. Adapter trimming with fastp</a></li>
-<li><a href="#3">3. Quality Control of trimmed reads with FastQC</a></li>
-<li><a href="#4">4. Remove host reads using Kraken2 with humanDB database</a></li>
-<li><a href="#5">5. Preliminary assembly using Unicycler</a></li>
-<li><a href="#6">6. Detect hits using BLASTn with NCIB Influenza Virus Database</a></li>
-<ul>
-<li><a href="#6.1">6.1. Download and build NCBI Influenza Virus database</a></li>
-<li><a href="#6.2">6.2. Run BLASTn to get the top hit from the NCBI Influenza Virus Database</a></li>
-<li><a href="#6.3">6.3. Parse BLASTn results to detect the strain to use as reference</a></li>
-</ul>
-<li><a href="#7">7. Align non-host reads to a reference genome</a></li>
-<ul>
-<li><a href="#7.1">7.1. Select the reference based on BLASTn results</a></li>
-<li><a href="#7.2">7.2. Align reads by segment using BWA</a></li>
-<li><a href="#7.3">7.3. Discard unmapped reads and sort BAMs file using SAMtools</a></li>
-<li><a href="#7.4">7.4. Quality Control of sorted BAMs using SAMtools and MosDepth</a></li>
-</ul>
-<li><a href="#8">8. Variant Calling with iVar</a></li>
-<li><a href="#9">9. Consensus FASTA generation with iVar</a></li>
-<li><a href="#10">10. Lineage classification of segment 4 (HA) with NextClade</a></li>
-<li><a href="#11">11. Multisample Alignment and Phylogenetic Analysis</a></li>
+  <li><a href="#1">1. Quality Control of raw reads with FastQC</a></li>
+  <li><a href="#2">2. Adapter trimming with fastp</a></li>
+  <li><a href="#3">3. Quality Control of trimmed reads with FastQC</a></li>
+  <li><a href="#4">4. Remove host reads using Kraken2 with humanDB database</a></li>
+  <li><a href="#5">5. Preliminary assembly using Unicycler</a></li>
+  <ul>
+    <li><a href="#5.1">5.1. Assessment of preliminary assembly using QUAST</a></li>
+  </ul>
+  <li><a href="#6">6. Detect hits using BLASTn with NCIB Influenza Virus Database</a></li>
+  <ul>
+    <li><a href="#6.1">6.1. Download and build NCBI Influenza Virus database</a></li>
+    <li><a href="#6.2">6.2. Run BLASTn to get the top hit from the NCBI Influenza Virus Database</a></li>
+    <li><a href="#6.3">6.3. Parse BLASTn results to detect the strain to use as reference</a></li>
+  </ul>
+  <li><a href="#7">7. Align non-host reads to a reference genome</a></li>
+  <ul>
+    <li><a href="#7.1">7.1. Select the reference based on BLASTn results</a></li>
+    <li><a href="#7.2">7.2. Align reads by segment using BWA</a></li>
+    <li><a href="#7.3">7.3. Discard unmapped reads and sort BAMs file using SAMtools</a></li>
+    <li><a href="#7.4">7.4. Quality Control of sorted BAMs using SAMtools and MosDepth</a></li>
+  </ul>
+  <li><a href="#8">8. Variant Calling with iVar</a></li>
+  <li><a href="#9">9. Consensus FASTA generation with iVar</a></li>
+  <li><a href="#10">10. Lineage classification of segment 4 (HA) with NextClade</a></li>
+  <li><a href="#11">11. Multisample Alignment and Phylogenetic Analysis</a></li>
 </ul>
 
 <hr>
@@ -57,7 +60,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <a name="1"></a>
 #### 1. Quality Control of raw reads with FastQC:
 ```Bash
-# In case you install FastQC through conda:
+# In case you installed FastQC through conda:
 conda activate fastqc
 
 r1="sample_R1_001.fastq.gz"
@@ -74,6 +77,7 @@ conda deactivate
 <a name="2"></a>
 #### 2. Adapter trimming with fastp:
 ```Bash
+# In case you installed fastp through conda:
 conda activate fastp
 
 threads=16
@@ -104,7 +108,7 @@ conda deactivate
 <a name="3"></a>
 #### 3. Quality Control of trimmed reads with FastQC:
 ```Bash
-# In case you install FastQC through conda:
+# In case you installed FastQC through conda:
 conda activate fastqc
 
 trimmed_r1="sample_R1_001.fastp.fastq.gz"
@@ -120,7 +124,7 @@ conda deactivate
 <a name="4"></a>
 #### 4. Remove host reads using Kraken2 with humanDB database:
 ```Bash
-# In case you install Kraken2 through conda:
+# In case you installed Kraken2 through conda:
 conda activate kraken2
 
 database="/path/to/kraken2/databases/kraken2-human-db"
@@ -145,7 +149,7 @@ conda deactivate
 <a name="5"></a>
 #### 5. Preliminary assembly using Unicycler:
 ```Bash
-# In case you install Unicycler through conda:
+# In case you installed Unicycler through conda:
 conda activate unicycler
 
 threads=16
@@ -165,6 +169,26 @@ mv ${outdir}/assembly.fasta sample.unicycler.fasta
 conda deactivate
 ```
 
+<a name="5.1"></a>  
+##### 5.1 Assessment of preliminary assembly using QUAST:
+```Bash
+# In case you installed QUAST through conda:
+conda activate quast
+
+infile="sample.unicycler.fasta"
+outdir="quast_results"
+
+threads=16
+
+quast.py --threads ${threads} \
+  --circos \
+  --output-dir ${outdir} \
+  --labels sample \
+  ${infile}
+
+conda deactivate
+```
+
 <a name="6"></a>
 #### 6. Detect hits using BLASTn with NCIB Influenza Virus Database:
 <a name="6.1"></a>  
@@ -178,7 +202,7 @@ wget https://ftp.ncbi.nih.gov/genomes/INFLUENZA/influenza.fna.gz
 zcat influenza.fna.gz | sed -E 's/^>gi\|[0-9]+\|gb\|(\w+)\|/>/' > influenza.fna
 
 # 3. Make BLASTDB:
-# In case you install BLAST through conda:
+# In case you installed BLAST through conda:
 conda activate blast
 
 makeblastdb -in influenza.fna
@@ -192,7 +216,7 @@ conda deactivate
 <a name="6.2"></a> 
 ##### 6.2 Run BLASTn to get the top hit from the NCBI Influenza Virus Database:
 ```Bash
-# In case you install BLAST through conda:
+# In case you installed BLAST through conda:
 conda activate blast
 
 database="/path/to/NCBI_Influenza_Virus_Database/blast_db/influenza.fna"
@@ -265,7 +289,7 @@ fi
 <a name="7.2"></a> 
 ##### 7.2 Align reads by segment using BWA:
 ```Bash
-# In case you install BWA through conda:
+# In case you installed BWA through conda:
 conda activate bwa
 
 # Non-host reads from step 4:
@@ -285,7 +309,7 @@ conda deactivate
 <a name="7.3"></a> 
 ##### 7.3 Discard unmapped reads and sort BAMs file using SAMtools:
 ```Bash
-# In case you install SAMtools through conda:
+# In case you installed SAMtools through conda:
 conda activate samtools
 
 for i in $( seq 1 8 ); do
@@ -305,7 +329,7 @@ conda deactivate
 <a name="7.4"></a> 
 ##### 7.4 Quality Control of sorted BAMs using SAMtools and MosDepth:
 ```Bash
-# In case you install SAMtools through conda:
+# In case you installed SAMtools through conda:
 conda activate samtools
 
 for i in $( seq 1 8 ); do
@@ -319,7 +343,7 @@ done
 
 conda deactivate
 
-# In case you install MosDepth through conda:
+# In case you installed MosDepth through conda:
 conda activate mosdepth
 
 for i in $( seq 1 8 ); do
@@ -337,7 +361,7 @@ conda deactivate
 <a name="8"></a> 
 #### 8. Variant Calling with iVar:
 ```Bash
-# In case you install iVar through conda:
+# In case you installed iVar through conda:
 conda activate ivar
 
 # Make a pileup and pipe to iVar to call variants:
@@ -356,7 +380,7 @@ conda deactivate
 <a name="9"></a> 
 #### 9. Consensus FASTA Generation:
 ```Bash
-# In case you install iVar through conda:
+# In case you installed iVar through conda:
 conda activate ivar
 
 # Generate consensus FASTA:
