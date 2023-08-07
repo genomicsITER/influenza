@@ -31,7 +31,7 @@ This is the result of a continuous collaborative effort of the following Institu
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
   <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
     <ul>
-    <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
+      <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
       <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li>
       <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
       <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
@@ -103,7 +103,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 <a name="Code-Illumina"></a>
 **Code for Illumina short-reads processing**
 
-<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md).
+<a href="https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md"><img src="https://github.com/genomicsITER/influenza/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md).
 
 <hr>
 
