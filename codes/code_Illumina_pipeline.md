@@ -264,9 +264,7 @@ fi
 ##### 7.1 Select the reference based on BLASTn results:
 ```Bash
 
-infile="sample.strain.txt"
-
-strain=$( cat ${infile} )
+strain=$( cat sample.strain.txt )
 
 # Path to multiple Influenza strains reference genomes separated by segments:
 infA_h1n1_dir=/path/to/reference/Influenza_A_virus_H1N1_California/separated_segments
