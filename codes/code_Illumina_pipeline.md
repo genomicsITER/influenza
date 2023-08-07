@@ -292,6 +292,8 @@ fi
 # In case you installed BWA through conda:
 conda activate bwa
 
+strain=$( cat sample.strain.txt )
+
 # Non-host reads from step 4:
 r1="sample.unclassified_1.fastq"
 r2="sample.unclassified_2.fastq"
@@ -312,6 +314,8 @@ conda deactivate
 # In case you installed SAMtools through conda:
 conda activate samtools
 
+strain=$( cat sample.strain.txt )
+
 for i in $( seq 1 8 ); do
   infile=sample.${strain}.seg${i}.sam
   mapped=sample.${strain}.mapped.seg${i}.bam
@@ -331,6 +335,8 @@ conda deactivate
 ```Bash
 # In case you installed SAMtools through conda:
 conda activate samtools
+
+strain=$( cat sample.strain.txt )
 
 for i in $( seq 1 8 ); do
   infile=sample.${strain}.mapped.sorted.seg${i}.bam
@@ -364,6 +370,8 @@ conda deactivate
 # In case you installed iVar through conda:
 conda activate ivar
 
+strain=$( cat sample.strain.txt )
+
 # Make a pileup and pipe to iVar to call variants:
 for i in $( seq 1 8 ); do
   reference=${reference_dir}/Seg${i}.fasta
@@ -383,6 +391,8 @@ conda deactivate
 # In case you installed iVar through conda:
 conda activate ivar
 
+strain=$( cat sample.strain.txt )
+
 # Generate consensus FASTA:
 # Optionally, you can set different parameters to define minimum thresholds for the consensus 
 # (see ivar consensus help).
@@ -400,6 +410,8 @@ conda deactivate
 <a name="10"></a> 
 #### 10. Lineage classification of segment 4 (HA) with NextClade:
 ```Bash
+strain=$( cat sample.strain.txt )
+
 # Create a multisample FASTA with more sequences separated by strain:
 sequences_dir="/path/to/more/sequences"
 infile="sample.${strain}.seg4.consensus.fasta"
@@ -413,6 +425,8 @@ cat ${sequences_dir}/*.${strain}.seg4.consensus.fa ${infile} > ${outfile}
 <a name="11"></a> 
 #### 11. Multisample Alignment and Phylogenetic Analysis of segment 4 (HA):
 ```Bash
+strain=$( cat sample.strain.txt )
+
 # Align multisample FASTA using MAFFT:
 # You should replace the --thread parameter with a proper value that suits your execution environment.
 infile="multifasta.${strain}.fa"
