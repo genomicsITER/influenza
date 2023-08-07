@@ -46,7 +46,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
   <ul>
     <li><a href="#7.1">7.1. Select the reference based on BLASTn results</a></li>
     <li><a href="#7.2">7.2. Align reads by segment using BWA</a></li>
-    <li><a href="#7.3">7.3. Discard unmapped reads and sort BAMs file using SAMtools</a></li>
+    <li><a href="#7.3">7.3. Discard unmapped reads, sort and index BAM files using SAMtools</a></li>
     <li><a href="#7.4">7.4. Quality Control of sorted BAMs using SAMtools and MosDepth</a></li>
   </ul>
   <li><a href="#8">8. Variant Calling with iVar</a></li>
@@ -307,7 +307,7 @@ conda deactivate
 ```
 
 <a name="7.3"></a> 
-##### 7.3 Discard unmapped reads and sort BAMs file using SAMtools:
+##### 7.3 Discard unmapped reads, sort and index BAM files using SAMtools:
 ```Bash
 # In case you installed SAMtools through conda:
 conda activate samtools
@@ -318,7 +318,6 @@ for i in $( seq 1 8 ); do
   infile=sample.${strain}.seg${i}.sam
   mapped=sample.${strain}.mapped.seg${i}.bam
   samtools view -F 0x04 -b ${infile} > ${mapped}
-  samtools index ${mapped}
 
   sorted=sample.${strain}.mapped.sorted.seg${i}.bam
   samtools sort ${mapped} > ${sorted}
