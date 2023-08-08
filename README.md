@@ -179,12 +179,16 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 <a href="https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md"><img src="https://github.com/genomicsITER/influenza/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md).
 
+<!-- 
+
 <hr>
 
 <a name="Code-ONT"></a>
 **Code for Nanopore long-reads processing and hybrid *de novo* assemby**
 
 <a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md).
+
+-->
 
 <hr>
 
@@ -217,6 +221,8 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 <a name="Useful-Files"></a>
 **Useful files for the pipelines**
 
+Work in progress (link to reference genomes here)
+
 <ul>
   <li>FASTA file (<i>'multiMPXV01.fasta.zip'</i>) with multiple sequences of MPXV from NCBI GenBank to use used in the Multiple Sample Aligment step with MAFFT or Nextstrain-monkeypox, available <a href="https://github.com/genomicsITER/monkeypox/blob/main/files/multiMPXV01.fasta.zip">here</a> (last update: June 16, 2022)</a></li>
   <li>Metadata file (TSV format) to use with a Nextstrain-monkeypox local instance, available <a href="https://github.com/genomicsITER/monkeypox/blob/main/files/nextstrain_monkeypox_hmpxv1_metadata_processed_filtered.tsv">here</a> (last update: June 23, 2022)</a></li>
@@ -236,6 +242,10 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 <a name="Sequences"></a>
 ## Sequences ##
 
+Work in progress (deposit pending)
+
+<!-- 
+
 > Consensus FASTA file obtained from a hybrid *de novo* Illumina-Nanopore based assembly and [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
 
 NCBI GenBank Accession: ON782054. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001a/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782054)
@@ -249,7 +259,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 - MPXV sequences of MPXV01, MPXV05, MPXV06 and MPXV07 samples obtained from the Illumina-only consensus approach have been released in the NCBI GenBank with accessions [ON782054](https://www.ncbi.nlm.nih.gov/nuccore/ON782054), [OQ581847](https://www.ncbi.nlm.nih.gov/nuccore/OQ581847), [OQ581848](https://www.ncbi.nlm.nih.gov/nuccore/OQ581848), and [OQ581849](https://www.ncbi.nlm.nih.gov/nuccore/OQ581849), respectively.
 - Hybrid de novo assemblies of MPXV01, MPXV05, MPXV06 and MPXV07 samples have also been released with accessions [ON782055](https://www.ncbi.nlm.nih.gov/nuccore/ON782055), [OQ581850](https://www.ncbi.nlm.nih.gov/nuccore/OQ581850), [OQ581851](https://www.ncbi.nlm.nih.gov/nuccore/OQ581851), and [OQ581852](https://www.ncbi.nlm.nih.gov/nuccore/OQ581852), respectively.
 
-
+-->
 
 
 <p align="right">
