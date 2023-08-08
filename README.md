@@ -63,7 +63,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, will be shared through Virological shortly. Keep reading! [Here.](https://virological.org/)
 
-The first genome sequences of Influenza virus described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal Influenza wave in the Northern hemisphere, as shown in Figure 1.
+The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal Influenza wave in the Northern hemisphere, as shown in Figures 1 and 2.
 
 <p align="center">
   <a href="#Influenza" title="Up">
@@ -71,7 +71,16 @@ The first genome sequences of Influenza virus described by us in Virological are
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the genome draft of Influenza A/H1N1 isolated in the period October-December 2023, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
+**Figure 1**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H1N1 isolated in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
+
+
+<p align="center">
+  <a href="#Influenza" title="Up">
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H3N2_CanaryIslands_Spain.png" width="auto" />
+  </a>
+</p>
+
+**Figure 2**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H3N2 isolated in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
 
 <p align="right">
   <a href="#Influenza" title="Up">
