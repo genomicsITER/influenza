@@ -63,7 +63,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, will be shared through Virological shortly. Keep reading! [Here.](https://virological.org/)
 
-The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal Influenza wave in the Northern hemisphere, as shown in Figures 1 and 2.
+The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
 
 <p align="center">
   <a href="#Influenza" title="Up">
