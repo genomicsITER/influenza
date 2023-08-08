@@ -132,9 +132,14 @@ Working in progress. Come back by the end of September 2023 to find new stuff in
 <a name="PCR-primers"></a>
 **PCR primers**
 
-Text here.
+PCR Universal Primers from Zhout et al. (2012, 2014).
 
-<hr>
+
+<p align="center">
+  <a href="#Influenza" title="Up">
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_Zhou-2012-2014_Universal_Primers.png" width="auto" />
+  </a>
+</p>
 
 <hr>
 
