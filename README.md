@@ -372,7 +372,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work (third-party copyrights and licenses may apply).
 
-Please cite this repository as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_. And do not forget to <a href="#How-to-cite">cite the paper</a> (see the section "How to cite" below).
+Please cite this repository as: _"Influenza repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_. And do not forget to <a href="#How-to-cite">cite the paper</a> (see the section "How to cite" below) when it becomes available.
 
 <p align="right">
   <a href="#Influenza" title="Up">
@@ -412,7 +412,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="How-to-cite"></a>
 ## How to cite this work ##
 
-> This work has been publised in Computational and Structural Biotechnology Journal. Please, cite it as:
+> This work has been publised yet. Please, cite it as:
 
 Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/10.1016/j.csbj.2023.03.020" title="Read the paper">Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multicountry mpox virus 2022-outbreak</a>. Comput Struct Biotechnol J. 2023;21:2197-2203. doi:10.1016/j.csbj.2023.03.020
 
@@ -429,21 +429,7 @@ Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/
 <a name="Update logs"></a>
 ## Update logs ##
 
-> March 28, 2023. Added a "How to cite" section and reference to our paper publised in Computational and Structural Biotechnology Journal.
-
-> September 15, 2022. Added an alternative site from BenLangmead to download indexes for Kraken 2, KrakenUniq, and Bracken (see software section for Kraken2).
-
-> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion; references section updated with new entries; public repositories showing new resources.
-
-> June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
-
-> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
-
-> June 21, 2022. Added a section with other useful external repositories for MPXV.
-
-> June 16, 2022. The MultiSample FASTA file now holds 137 public MPXV sequences.
-
-> June 13, 2022. Created the public version of this repository. Enjoy the reading! ;=)
+> July 26, 2023. Created the private version of this repository. Enjoy the reading! ;=)
 
 <p align="right">
   <a href="#Influenza" title="Up">
