@@ -94,9 +94,25 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
 <a name="Protocols"></a>
 ## Protocols for library preparation and sequencing of Influenza viral genomes ##
 
-Text here.
+The COVID-19 pandemic has shown the impact of genomic surveillance of emergent and re-emergent pathogens based on Next Generation Sequencing (NGS), as has been recognized by the World Health Organization (references below). Guiding the Public Health response has been accelerated thanks to the generalization of the NGS, allowing the identification and monitoring of emerging SARS-CoV-2 variants in a routine basis accross the World.
 
-Text here.
+<a href="https://www.who.int/publications/i/item/9789240018440">Genomic sequencing of SARS-CoV-2. A guide to implementation for maximum impact on public health</a>, WHO, January 8, 2021.
+
+<a href="https://apps.who.int/iris/handle/10665/3"> Report “Global genomic surveillance strategy for pathogens with pandemic and epidemic potential, 2022-2032”</a>. Ginebra, WHO, 2022.
+
+<a name="Illumina-protocol"></a>
+**Illumina-based protocol**
+
+One of the sequencing strategies followed for SARS-CoV-2 surveillance is the use of amplicons derived from primer pools designed by the ARTIC community following a tiling approach (reference). However, this approach is not suitable for influenza viruses because of their mutational burden and higher variability. Besides, it is possible to use the so called universal primers [Zhou references] taking advantage of the conserved promoter regions at the 5' and 3' ends of the influenza genome segments in order to amplify the entire genome using larger amplicons [references] (see the PCR-primers section).
+
+Lin Y. et al. (reference) have adapted the Illumina COVIDSeq™ Assay (RUO) kit to get the sequence of influenza A and B viral genomes. Their protocolo uses a combination of two primer sets (references), follows the Illumina COVIDSeq™ Assay protocol with minor modifications, and the take advantage of the same reagents included in the kit: <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">A sequencing and subtyping protocol for Influenza A and B viruses using Illumina® COVIDSeq™ Assay Kit</a> at <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1>protocols.io</a>.
+
+According to Lin Y. et al., this protocol provides accurate information for subtyping, lineage tracing, and antiviral resistance detection of influenza viruses.
+
+<hr>
+
+<a name="ONT-protocol"></a>
+**ONT-based protocol**
 
 Text here.
 
@@ -108,18 +124,6 @@ Text here.
 Text here.
 
 <hr>
-
-<a name="Illumina-protocol"></a>
-**Illumina-based protocol**
-
-Text here.
-
-<hr>
-
-<a name="ONT-protocol"></a>
-**ONT-based protocol**
-
-Text here.
 
 <hr>
 
