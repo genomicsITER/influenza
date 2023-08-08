@@ -71,7 +71,7 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H1N1 isolated in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
+**Figure 1**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H1N1 isolated in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H1N1pdm HA [A/California/07/2009 (CY121680)] as reference.
 
 
 <p align="center">
@@ -80,7 +80,7 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
   </a>
 </p>
 
-**Figure 2**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H3N2 isolated in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
+**Figure 2**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H3N2 isolated in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H3N2 HA [A/Wisconsin/67/2005 (CY163680)] as reference.
 
 <p align="right">
   <a href="#Influenza" title="Up">
