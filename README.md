@@ -29,13 +29,19 @@ This is the result of a continuous collaborative effort of the following Institu
 # Table of contents #
 <ul>
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
-  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
-    <ul>
-      <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
-      <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li>
-      <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
-      <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
-  </ul>
+  <li><a href="#Protocols">Protocols for Influenza sequencing</a></li>
+      <ul>
+          <li><a href="#Illumina-protocol">Illumina-based protocol</a></li>
+          <li><a href="#PCR-prinmers">PCR-prinmers</a></li>
+          <li><a href="#ONT-protocol">ONT-based protocol</a></li>
+      </ul>
+ <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
+      <ul>
+           <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
+           <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li>
+           <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
+           <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
+      </ul>
   <li><a href="#Sequences">Sequences</a></li>
   <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> 
   <li><a href="#DNA-depletion">Enrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
@@ -54,17 +60,17 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain has been shared in Virological. Keep reading! [Here.](https://virological.org/t/a-draft-of-the-first-genome-sequence-of-monkeypox-virus-associated-with-the-multi-country-outbreak-in-may-2022-from-the-canary-islands-spain/864)
+A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, are goint to be shared through Virological. Keep reading! [Here.](https://virological.org/)
 
-The first genome sequence of MPXV virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
+The first genome sequences of Influenza virus described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal Influenza wave in the Northern hemisphere, as shown in Figure 1.
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Nextstrain-monkeypox_HUNSC_ITER_Figure1.png" width="auto" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/" width="auto" />
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on May 31, 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-monkeypox local instance.
+**Figure 1**. A phylogenetic tree depicting the draft Influenza A (H1N1 and H3N2) and B sequences isolated in the period October-December 2023, from patients from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-Influenza local instance.
 
 <p align="right">
   <a href="#Influenza" title="Up">
