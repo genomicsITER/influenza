@@ -217,7 +217,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 </p>
 
 <hr>
-<!-- ------------------ SECTION 5 ------------------ -->
+<!-- ------------------ SECTION 5 ------------------ 
 
 <a name="DNA-depletion"></a>
 ## Enrichment of viral DNA by means of Human & Bacterial DNA depletion ##
@@ -233,26 +233,23 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   </a>
 </p>
 
-<hr>
+<hr> -->
 <!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="Other-repos"></a>
-## Other useful repositories with resources to study MPXV ##
+## Other useful repositories with resources to study Influenza ##
 
 > Kudos to all research teams behind the scenes in all these repositories:
 > 
 <ul>
-  <li><a href="https://www.who.int/publications/i/item/WHO-MPX-laboratory-2022.1">WHO Laboratory testing for the monkeypox virus: Interim guidance (and Corrigendums), 23 May 2022</a></li>
-  <li>European Centre for Disease Prevention and Control (ECDC), <a href="https://www.ecdc.europa.eu/en/monkeypox">Monkeypox resource center</a></li>
-  <li>Joint ECDC-WHO Regional Office for Europe <a href="https://monkeypoxreport.ecdc.europa.eu/">Monkeypox Surveillance Bulletin</a></li>
-  <li><a href="https://virological.org/c/monkeypox">Virological.org posts on MPXV</a></li>
-  <li><a href="https://github.com/CADDE-CENTRE/Monkeypox">CADDE-CENTRE GitHub repository for MPXV</a></li>  
-  <li><a href="https://github.com/Mike-Honey/mpx-22">Mike Honey GitHub repository for MPXV</a></li>
-  <li><a href="https://mpox.genspectrum.org/explore">Mpox-Spectrum from the Computational Evolution group of ETH Zürich in Switzerland</a></li>
-  <li><a href="https://github.com/globaldothealth/monkeypox">Global.health, geospatial data visualisations to explore MPXV GitHub repository</a> and <a href="https://map.monkeypox.global.health/country">visualization</a></li>
-  <li><a href="https://ourworldindata.org/monkeypox">Our World in Data for MPXV</a></li>
-  <li><a href="https://github.com/nextstrain/monkeypox">Nextstraing build for MPXV in GitHub</a> and <a href="https://nextstrain.org/monkeypox/hmpxv1">visualization</a></li>
-  <li><a href="https://www.finddx.org/mpx-test-directory/">FIND offers a searchable directory of monkeypox tests</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
+  <li><a href="">text here</a></li>
 </ul>
 
 <p align="right">
@@ -270,65 +267,13 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 > Published papers
 
-Alcolea-Medina, Adela and Charalampous, Themoula and Snell, Luke B. and Aydin, Alp and Alder, Christopher and Maloney, Gillian and Bryan, Lisa and Nebbia, Gaia and Douthwaite, Sam and Neil, Stuart and Cliff, Penelope and O'Grady, Justin and Batra, Rahul and Wilks, Mark and O'Hara, Geraldine and Edgeworth, Jonathan, Novel, Rapid Metagenomic Method to Detect Emerging Viral Pathogens Applied to Human Monkeypox Infections (June 9, 2022). Available at SSRN: https://ssrn.com/abstract=4132526 or http://dx.doi.org/10.2139/ssrn.4132526
 
-Berthet N, Descorps-Declère S, Besombes C, et al. Genomic history of human monkey pox infections in the Central African Republic between 2001 and 2018. Sci Rep. 2021;11(1):13085. Published 2021 Jun 22. doi: https://doi.org/10.1038/s41598-021-92315-8
-
-Cervantes-Gracia K, Gramalla-Schmitz A, Weischedel J, Chahwan R. APOBECs orchestrate genomic and epigenomic editing across health and disease. Trends Genet. 2021;37(11):1028-1043. doi: https://doi.org/10.1016/j.tig.2021.07.003
-
-Cohen J. Global outbreak puts spotlight on neglected virus. Science. 2022;376(6597):1032-1033. doi:10.1126/science.add2701
-
-Cohen-Gihon I, Israeli O, Shifman O, et al. Identification and Whole-Genome Sequencing of a Monkeypox Virus Strain Isolated in Israel. Microbiol Resour Announc. 2020;9(10):e01524-19. Published 2020 Mar 5. doi: https://doi.org/10.1128/MRA.01524-19
-
-Erez N, Achdout H, Milrot E, et al. Diagnosis of Imported Monkeypox, Israel, 2018. Emerg Infect Dis. 2019;25(5):980-983. doi:10.3201/eid2505.190076
-
-Faye O, Pratt CB, Faye M, et al. Genomic characterisation of human monkeypox virus in Nigeria [published correction appears in Lancet Infect Dis. 2018 Mar;18(3):244]. Lancet Infect Dis. 2018;18(3):246. doi: https://doi.org/10.1016/S1473-3099(18)30043-4
-
-Iizuka I, Saijo M, Shiota T, et al. Loop-mediated isothermal amplification-based diagnostic assay for monkeypox virus infections. J Med Virol. 2009;81(6):1102-1108. doi: https://doi.org/10.1002/jmv.21494
-
-Kraemer MUG, Tegally H, Pigott DM, et al. Tracking the 2022 monkeypox outbreak with epidemiological data in real-time [published online ahead of print, 2022 Jun 8]. Lancet Infect Dis. 2022;S1473-3099(22)00359-0. doi: https://doi.org/10.1016/S1473-3099(22)00359-0
-
-Kugelman JR, Johnston SC, Mulembakani PM, et al. Genomic variability of monkeypox virus among humans, Democratic Republic of the Congo. Emerg Infect Dis. 2014;20(2):232-239. doi: https://doi.org/10.3201/eid2002.130118
-
-Kulesh DA, Loveless BM, Norwood D, et al. Monkeypox virus detection in rodents using real-time 3'-minor groove binder TaqMan assays on the Roche LightCycler. Lab Invest. 2004;84(9):1200-1208. doi: https://doi.org/10.1038/labinvest.3700143
-
-Li D, Wilkins K, McCollum AM, et al. Evaluation of the GeneXpert for Human Monkeypox Diagnosis. Am J Trop Med Hyg. 2017;96(2):405-410. doi:10.4269/ajtmh.16-0567
-
-Li Y, Olson VA, Laue T, Laker MT, Damon IK. Detection of monkeypox virus with real-time PCR assays. J Clin Virol. 2006;36(3):194-203. doi: https://doi.org/10.1016/j.jcv.2006.03.012
-
-Li Y, Zhao H, Wilkins K, Hughes C, Damon IK. Real-time PCR assays for the specific detection of monkeypox virus West African and Congo Basin strain DNA. J Virol Methods. 2010;169(1):223-227. doi: https://doi.org/10.1016/j.jviromet.2010.07.012
-
-Luciani L, Inchauste L, Ferraris O, et al. A novel and sensitive real-time PCR system for universal detection of poxviruses [published correction appears in Sci Rep. 2022 Apr 8;12(1):5961]. Sci Rep. 2021;11(1):1798. Published 2021 Jan 19. doi: https://doi.org/10.1038/s41598-021-81376-4
-
-Maksyutov RA, Gavrilova EV, Shchelkunov SN. Species-specific differentiation of variola, monkeypox, and varicella-zoster viruses by multiplex real-time PCR assay. J Virol Methods. 2016;236:215-220. doi: https://doi.org/10.1016/j.jviromet.2016.07.024
-
-Mucker EM, Hartmann C, Hering D, et al. Validation of a pan-orthopox real-time PCR assay for the detection and quantification of viral genomes from nonhuman primate blood. Virol J. 2017;14(1):210. Published 2017 Nov 3. doi: https://doi.org/10.1186/s12985-017-0880-8
-
-Patrono LV, Pléh K, Samuni L, et al. Monkeypox virus emergence in wild chimpanzees reveals distinct clinical outcomes and viral diversity. Nat Microbiol. 2020;5(7):955-965. doi: https://doi.org/10.1038/s41564-020-0706-0
-
-Pecori R, Di Giorgio S, Paulo Lorenzo J, Nina Papavasiliou F. Functions and consequences of AID/APOBEC-mediated DNA and RNA deamination [published online ahead of print, 2022 Mar 7]. Nat Rev Genet. 2022;1-14. doi: https://doi.org/10.1038/s41576-022-00459-8
-
-Seang, S., Burrel, S., Todesco, E., Leducq, V., Monsel, G., Le Pluart, D., Cordevant, C., Pourcher, V., & Palich, R. (2022). Evidence of human-to-dog transmission of monkeypox virus. Lancet (London, England), S0140-6736(22)01487-8. Advance online publication. doi: https://doi.org/10.1016/S0140-6736(22)01487-8
-
-Shchelkunov SN, Shcherbakov DN, Maksyutov RA, Gavrilova EV. Species-specific identification of variola, monkeypox, cowpox, and vaccinia viruses by multiplex real-time PCR assay. J Virol Methods. 2011;175(2):163-169. doi: https://doi.org/10.1016/j.jviromet.2011.05.002
-
-Tumewu J, Wardiana M, Ervianty E, et al. An adult patient with suspected of monkeypox infection differential diagnosed to chickenpox. Infect Dis Rep. 2020;12(Suppl 1):8724. Published 2020 Jul 6. doi: https://doi.org/10.4081/idr.2020.8724
-
-Yong SEF, Ng OT, Ho ZJM, et al. Imported Monkeypox, Singapore. Emerg Infect Dis. 2020;26(8):1826-1830. doi:10.3201/eid2608.191387
-
-Zhao K, Wohlhueter RM, Li Y. Finishing monkeypox genomes from short reads: assembly analysis and a neural network method. BMC Genomics. 2016;17 Suppl 5(Suppl 5):497. Published 2016 Aug 31. doi: https://doi.org/10.1186/s12864-016-2826-8
 
 
 
 > Preprint papers
 
-A new and efficient enrichment method for metagenomic sequencing of monkeypox virus
-Pablo Aja-Macaya, Soraya Rumbo-Feal, Margarita Poza, Angelina Cañizares, Juan A. Vallejo and Germán Bou
-medRxiv 2022.07.29.22278145v1; doi: https://doi.org/10.1101/2022.07.29.22278145
 
-Enhanced surveillance of monkeypox in Bas-Uélé, Democratic Republic of Congo: the limitations of symptom-based case definitions
-Gaspard Mande, Innocent Akonda, Anja De Weggheleire, Isabel Brosius, Laurens Liesenborghs, Emmanuel Bottieau, Noam Ross, Guy -Crispin Gembu, Robert Colebunders, Erik Verheyen, Ngonda Dauly, Herwig Leirs, Anne Laudisoit
-medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 
 
@@ -345,9 +290,9 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
 
-This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "_Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19_"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "_A way of making Europe_", and by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008).
+This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "_Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19_"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "_A way of making Europe_", by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008); and by the agreement between Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias y Cabildo Insular de Tenerife, 2022-2025.
 
-We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx) the researchers and their institutions who released the MPXV sequences through NCBI GenBank that are being used in our studies. 
+We acknowledge the researchers and their institutions who released Influenza sequences through NCBI GenBank, GISAID, and ENA that are being used in our studies. 
 
 We also thank the authors, the laboratories that originated and submitted the genetic sequences and the metadata for sharing their work, as shown on Nextstrain, and:
 <ul>
