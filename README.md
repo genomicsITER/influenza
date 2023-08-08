@@ -61,7 +61,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological post: A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023 ##
 
-A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, are goint to be shared through Virological. Keep reading! [Here.](https://virological.org/)
+A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, will be shared through Virological shortly. Keep reading! [Here.](https://virological.org/)
 
 The first genome sequences of Influenza virus described by us in Virological are phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the past 2022-2023 seasonal Influenza wave in the Northern hemisphere, as shown in Figure 1.
 
