@@ -125,7 +125,7 @@ References:
 <a name="ONT-protocol"></a>
 **ONT-based protocol**
 
-Text here.
+Working in progress. Come back by the end of September 2023 to find new stuff in this section.
 
 <hr>
           
@@ -150,7 +150,7 @@ Text here.
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
-The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of MPXV virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
 In the upper part of the diagram, there is a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
@@ -164,7 +164,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 
 <p align="center">
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/images/INF_pipeline_v1.png" width="auto" /> 
+    <img src="[https://github.com/genomicsITER/influenza/blob/main/images/INF_pipeline_v1.png](https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_pipeline.png)" width="auto" /> 
   </a>
 </p>
 
