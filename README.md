@@ -28,7 +28,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 # Table of contents #
 <ul>
-  <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
+  <li><a href="#Virological posts">Virological post: A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023</a></li>
   <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
       <ul>
           <li><a href="#PCR-primers">PCR-prinmers</a></li>
@@ -59,7 +59,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <!-- ------------------ SECTION 1 ------------------ -->
 
 <a name="Virological posts"></a>
-## Virological posts ##
+## Virological post: A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023 ##
 
 A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, are goint to be shared through Virological. Keep reading! [Here.](https://virological.org/)
 
