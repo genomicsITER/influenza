@@ -67,11 +67,11 @@ The first genome sequences of Influenza virus described by us in Virological are
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/" width="auto" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H1N1_CanaryIslands_Spain.png" width="auto" />
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the draft Influenza A (H1N1 and H3N2) and B sequences isolated in the period October-December 2023, from patients from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-Influenza local instance.
+**Figure 1**. A phylogenetic tree depicting the genome draft of Influenza A/H1N1 isolated in the period October-December 2023, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by Nextstrain-Influenza.
 
 <p align="right">
   <a href="#Influenza" title="Up">
