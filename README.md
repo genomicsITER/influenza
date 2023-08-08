@@ -412,9 +412,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="How-to-cite"></a>
 ## How to cite this work ##
 
-> This work has been publised yet. Please, cite it as:
-
-Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/10.1016/j.csbj.2023.03.020" title="Read the paper">Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multicountry mpox virus 2022-outbreak</a>. Comput Struct Biotechnol J. 2023;21:2197-2203. doi:10.1016/j.csbj.2023.03.020
+> This work has not been publised yet. See 'License and Attribution' section to cite this repository.
 
 <p align="right">
   <a href="#Influenza" title="Up">
