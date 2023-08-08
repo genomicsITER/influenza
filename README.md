@@ -141,7 +141,6 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
   </a>
 </p>
 
-<hr>
 
 <p align="right">
   <a href="#Influenza" title="Up">
