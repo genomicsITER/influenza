@@ -137,7 +137,7 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_Zhou-2012-2014_Universal_Primers.png" width="50%" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_Zhou-2012-2014_Universal_Primers.png" width="75%" />
   </a>
 </p>
 
