@@ -31,9 +31,9 @@ This is the result of a continuous collaborative effort of the following Institu
   <li><a href="#Virological-posts">Virological post: A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023</a></li>
   <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
       <ul>
-          <li><a href="#PCR-primers">PCR-prinmers</a></li>
           <li><a href="#Illumina-protocol">Illumina-based protocol</a></li>
           <li><a href="#ONT-protocol">ONT-based protocol</a></li>
+          <li><a href="#PCR-universal-primers">PCR universal primers</a></li>
       </ul>
  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
       <ul>
@@ -129,8 +129,8 @@ Working in progress. Come back by the end of September 2023 to find new stuff in
 
 <hr>
           
-<a name="PCR-primers"></a>
-**PCR primers**
+<a name="PCR-universal-primers"></a>
+**PCR universal primers**
 
 PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/protocol/10.1007/978-1-61779-621-0_11">2012</a>, <a href="https://doi.org/10.1128/jcm.03265-13">2014</a>).
 
