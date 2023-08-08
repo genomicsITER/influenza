@@ -31,8 +31,8 @@ This is the result of a continuous collaborative effort of the following Institu
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
   <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
       <ul>
+          <li><a href="#PCR-primers">PCR-prinmers</a></li>
           <li><a href="#Illumina-protocol">Illumina-based protocol</a></li>
-          <li><a href="#PCR-prinmers">PCR-prinmers</a></li>
           <li><a href="#ONT-protocol">ONT-based protocol</a></li>
       </ul>
  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
@@ -81,6 +81,47 @@ The first genome sequences of Influenza virus described by us in Virological are
 
 <hr>
 <!-- ------------------ SECTION 2 ------------------ -->
+
+<a name="Protocols"></a>
+## Protocols for library preparation and sequencing of Influenza viral genomes ##
+
+Text here.
+
+Text here.
+
+Text here.
+
+<hr>
+          
+<a name="PCR-primers"></a>
+**PCR primers**
+
+Text here.
+
+<hr>
+
+<a name="Illumina-protocol"></a>
+**Illumina-based protocol**
+
+Text here.
+
+<hr>
+
+<a name="ONT-protocol"></a>
+**ONT-based protocol**
+
+Text here.
+
+<hr>
+
+<p align="right">
+  <a href="#Influenza" title="Up">
+    <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION 3 ------------------ -->
 
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
