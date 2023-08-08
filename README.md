@@ -154,25 +154,23 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
-The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-reads Illumina sequencing technology. A complementary pipeline is being designed and will be shown here by October 2023.
 
 In the upper part of the diagram, there is a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
 In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, it shows how to perform a hybrid *de novo* assembly combining short- and long-reads.
 
-Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank following the described pipeline:
-<ul>
-  <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a MPXV reference genome.</li>
-  <li>A FASTA sequence resulting from the consensus of the hybrid *de novo* assembly and a MPXV reference genome to complete uncovered regions.</li>
-</ul>
+Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipeline based on mapping of Illumina short-reads against an Influenza reference genome have been obtained so far. They have been deposited in NCBI GenBank, GISAID EpiFlu and ENA under the following accessions:
+
+> Work in progress here.
 
 <p align="center">
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
-    <img src="[https://github.com/genomicsITER/influenza/blob/main/images/INF_pipeline_v1.png](https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_pipeline.png)" width="auto" /> 
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_pipeline.png" width="auto" /> 
   </a>
 </p>
 
-**Figure 2**. Full bioinformatic pipeline to obtain the MPXV sequences and to infer phylogenetic relationships with other MPXV viral genomes available obtained from public repositories.
+**Figure 3**. Full bioinformatic pipeline to obtain the Influenza sequences and to infer phylogenetic relationships with other Influenza viral genomes available obtained from public repositories as provided by Nextstrain.
 
 <hr>
 
