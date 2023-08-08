@@ -29,7 +29,7 @@ This is the result of a continuous collaborative effort of the following Institu
 # Table of contents #
 <ul>
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
-  <li><a href="#Protocols">Protocols for Influenza sequencing</a></li>
+  <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
       <ul>
           <li><a href="#Illumina-protocol">Illumina-based protocol</a></li>
           <li><a href="#PCR-prinmers">PCR-prinmers</a></li>
@@ -43,9 +43,10 @@ This is the result of a continuous collaborative effort of the following Institu
            <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
       </ul>
   <li><a href="#Sequences">Sequences</a></li>
+  <!-- 
   <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> 
   <li><a href="#DNA-depletion">Enrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
-  <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li>
+  <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li> -->
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
