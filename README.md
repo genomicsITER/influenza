@@ -13,7 +13,17 @@
 </p>
 
 # Influenza
-A public repository of **Influenza** (Inf) related resources maintained by ITER.
+
+The COVID-19 pandemic has shown the impact of genomic surveillance of emergent and re-emergent pathogens based on Next Generation Sequencing (NGS), as has been recognized by the World Health Organization [1,2]. Guiding the Public Health response has been accelerated thanks to the generalization of the NGS, allowing the identification and monitoring of emerging SARS-CoV-2 variants in a routine basis accross the World.
+
+References:
+
+> [1] <a href="https://www.who.int/publications/i/item/9789240018440">Genomic sequencing of SARS-CoV-2. A guide to implementation for maximum impact on public health</a>, WHO, January 8, 2021.
+
+> [2] <a href="https://apps.who.int/iris/handle/10665/3"> Report “Global genomic surveillance strategy for pathogens with pandemic and epidemic potential, 2022-2032”</a>. Ginebra, WHO, 2022.
+
+<hr>
+Here we present a public repository of **Influenza** (Inf) related resources maintained by ITER-FIISC-HUNSC.
 
 This is the result of a continuous collaborative effort of the following Institutions and Laboratories:
 <ul>
@@ -93,16 +103,6 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
 
 <a name="Protocols"></a>
 ## Protocols for library preparation and sequencing of Influenza viral genomes ##
-
-The COVID-19 pandemic has shown the impact of genomic surveillance of emergent and re-emergent pathogens based on Next Generation Sequencing (NGS), as has been recognized by the World Health Organization [1,2]. Guiding the Public Health response has been accelerated thanks to the generalization of the NGS, allowing the identification and monitoring of emerging SARS-CoV-2 variants in a routine basis accross the World.
-
-References:
-
-> [1] <a href="https://www.who.int/publications/i/item/9789240018440">Genomic sequencing of SARS-CoV-2. A guide to implementation for maximum impact on public health</a>, WHO, January 8, 2021.
-
-> [2] <a href="https://apps.who.int/iris/handle/10665/3"> Report “Global genomic surveillance strategy for pathogens with pandemic and epidemic potential, 2022-2032”</a>. Ginebra, WHO, 2022.
-
-<hr>
 
 <a name="Illumina-protocol"></a>
 **Illumina-based protocol**
