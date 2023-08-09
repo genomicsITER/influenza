@@ -23,6 +23,7 @@ References:
 > [2] <a href="https://apps.who.int/iris/handle/10665/3"> Report “Global genomic surveillance strategy for pathogens with pandemic and epidemic potential, 2022-2032”</a>. Ginebra, WHO, 2022.
 
 <hr>
+
 Here we present a public repository of Influenza (Inf) related resources maintained by ITER-FIISC-HUNSC- task force.
 
 This is the result of a continuous collaborative effort of the following Institutions and Laboratories:
