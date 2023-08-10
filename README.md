@@ -239,7 +239,6 @@ Work in progress (deposit pending)
 
 NCBI GenBank Accession: ON782054. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001a/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782054)
 
-
 > Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
 
 NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001b/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782055)
@@ -249,7 +248,6 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 - Hybrid de novo assemblies of MPXV01, MPXV05, MPXV06 and MPXV07 samples have also been released with accessions [ON782055](https://www.ncbi.nlm.nih.gov/nuccore/ON782055), [OQ581850](https://www.ncbi.nlm.nih.gov/nuccore/OQ581850), [OQ581851](https://www.ncbi.nlm.nih.gov/nuccore/OQ581851), and [OQ581852](https://www.ncbi.nlm.nih.gov/nuccore/OQ581852), respectively.
 
 -->
-
 
 <p align="right">
   <a href="#Influenza" title="Up">
@@ -289,6 +287,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   </a>
 </p>
 
+
 <hr>
 <!-- ------------------ SECTION 5 ------------------ 
 
@@ -305,6 +304,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
     <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
 
 <hr> -->
 <!-- ------------------ SECTION 6 ------------------ -->
