@@ -196,7 +196,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
   <li>Perform the variant calling and consensus: <a href="https://github.com/andersen-lab/ivar/">iVar v.1.3.1</a></li>
   <li>Multiple Sample Alignment: <a href="https://mafft.cbrc.jp/alignment/server/">MAFFT v.7.505]</a></li>
   <li>Phylogenomic inference and tree computing: <a href="http://www.iqtree.org/">IQ-TREE v.2.2.0.3</a></li>
-  <li>Framework for analyses and visualization of pathogen genome data (Nextstraing-monkeypox in this case): <a href="https://github.com/nextstrain/monkeypox">Nextstrain</a></li>
+  <li>Framework for analyses and visualization of pathogen genome data (Nextstrain-Influenza in this case): <a href="https://nextstrain.org/influenza/">Nextstrain</a></li>
   <li>Visualization of phylogenetic trees: <a href="http://tree.bio.ed.ac.uk/software/figtree/">Figtree</a></li>
   <li>Visualization of phylogenetic trees: <a href="https://bioconductor.org/packages/release/bioc/html/ggtree.html/">ggtree 3.15</a></li>
   <li>Annotation of genomes: <a href="https://pcingola.github.io/SnpEff/">SnpEff v.5.1d</a></li>
