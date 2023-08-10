@@ -70,7 +70,7 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H1N1_CanaryIslands_Spain.png" width="auto" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H1N1_CanaryIslands_Spain_EN.png" width="auto" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ The first genome sequences of Influenza virus A/H1N1 and A/H3N2 described by us 
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H3N2_CanaryIslands_Spain.png" width="auto" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Tree_Influenza_A-H3N2_CanaryIslands_Spain_EN.png" width="auto" />
   </a>
 </p>
 
