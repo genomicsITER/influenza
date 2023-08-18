@@ -233,6 +233,26 @@ Work in progress (link to reference genomes here)
 
 Work in progress (deposit pending)
 
+**Sequences of Influenza A/H1N1**
+  <ul>
+    <li>Accesion 1: full sequence | sequences by chromosome</li>
+    <li>Accesion 2: full sequence | sequences by chromosome</li>
+    <li>Accesion 3: full sequence | sequences by chromosome</li>
+  </ul>
+
+**Sequences of Influenza A/H3N2**
+  <ul>
+    <li>Accesion 4: full sequence | sequences by chromosome</li>
+    <li>Accesion 5: full sequence | sequences by chromosome</li>
+    <li>Accesion 6: full sequence | sequences by chromosome</li>
+  </ul>
+
+**Sequences of Influenza B**
+  <ul>
+    <li>Accesion 7: full sequence | sequences by chromosome</li>
+    <li>Accesion 8: full sequence | sequences by chromosome</li>
+  </ul>
+
 <!-- 
 
 > Consensus FASTA file obtained from a hybrid *de novo* Illumina-Nanopore based assembly and [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
