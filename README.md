@@ -235,22 +235,22 @@ Work in progress (deposit pending)
 
 **Sequences of Influenza A/H1N1**
   <ul>
-    <li>Accesion 1: full sequence | sequences by chromosome</li>
-    <li>Accesion 2: full sequence | sequences by chromosome</li>
-    <li>Accesion 3: full sequence | sequences by chromosome</li>
+    <li>Accesion 1: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 2: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 3: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/.fasta">full sequence</a> | sequences by chromosome</li>
   </ul>
 
 **Sequences of Influenza A/H3N2**
   <ul>
-    <li>Accesion 4: full sequence | sequences by chromosome</li>
-    <li>Accesion 5: full sequence | sequences by chromosome</li>
-    <li>Accesion 6: full sequence | sequences by chromosome</li>
+    <li>Accesion 4: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 5: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 6: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/.fasta">full sequence</a> | sequences by chromosome</li>
   </ul>
 
 **Sequences of Influenza B**
   <ul>
-    <li>Accesion 7: full sequence | sequences by chromosome</li>
-    <li>Accesion 8: full sequence | sequences by chromosome</li>
+    <li>Accesion 7: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 8: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/.fasta">full sequence</a> | sequences by chromosome</li>
   </ul>
 
 <!-- 
