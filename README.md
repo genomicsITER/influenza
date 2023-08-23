@@ -233,6 +233,8 @@ Work in progress (link to reference genomes here)
 <a name="Sequences"></a>
 ## Sequences ##
 
+Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or directly download our Influenza sequences using the links provided below.
+
 Work in progress (deposit pending)
 
 **Sequences of Influenza A/H1N1**
