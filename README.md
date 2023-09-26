@@ -151,7 +151,7 @@ In the lower part of the diagram, it is shown a typical pipeline to process long
 Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipeline based on mapping of Illumina short-reads against an Influenza reference genome have been obtained so far. They have been deposited in GISAID EpiFlu (see <a href="#Sequences">'Sequences'</a> section below).
 
 <p align="center">
-  <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
+  <a href="https://github.com/genomicsITER/influenza" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
     <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_pipeline.png" width="auto" /> 
   </a>
 </p>
