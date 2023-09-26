@@ -209,7 +209,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 <a name="Useful-Files"></a>
 **Useful files for the pipelines**
 
-Work in progress (link to reference genomes here)
+BED file
 
 <!-- 
 
