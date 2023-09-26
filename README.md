@@ -209,10 +209,15 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 <a name="Useful-Files"></a>
 **Useful files for the pipelines**
 
-Reference sequences
+> Reference sequences
+<ul>
+ <li><a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/641809/">Influenza A virus (A/California/07/2009(H1N1))</a></li>
+ <li><a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/393902/">Influenza A virus (A/Wisconsin/67/2005(H3N2))</a></li>
+ <li><a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/604436/">Influenza B virus Victoria (B/Brisbane/60/2008)</a></li>
+ <li><a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1089607/">Influenza B virus Yamagata (B/Wisconsin/01/2010)</a></li>
+</ul>
 
-BED files
-
+> BED files
 Influenza A virus (A/California/07/2009(H1N1)) BED files:
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H1N1/Influenza_A_H1N1_A_California_07_2009.seg1.primer_scheme.bed">Segment 1</a> | 
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H1N1/Influenza_A_H1N1_A_California_07_2009.seg2.primer_scheme.bed">Segment 2</a> | 
@@ -222,7 +227,6 @@ Influenza A virus (A/California/07/2009(H1N1)) BED files:
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H1N1/Influenza_A_H1N1_A_California_07_2009.seg6.primer_scheme.bed">Segment 6</a> | 
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H1N1/Influenza_A_H1N1_A_California_07_2009.seg7.primer_scheme.bed">Segment 7</a> | 
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H1N1/Influenza_A_H1N1_A_California_07_2009.seg8.primer_scheme.bed">Segment 8</a>
-
 
 Influenza A virus (A/Wisconsin/67/2005(H3N2)) BED files:
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H3N2/Influenza_A_H3N2_A_Wisconsin_67_2005.seg1.primer_scheme.bed">Segment 1</a> | 
@@ -234,15 +238,15 @@ Influenza A virus (A/Wisconsin/67/2005(H3N2)) BED files:
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H3N2/Influenza_A_H3N2_A_Wisconsin_67_2005.seg7.primer_scheme.bed">Segment 7</a> | 
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/A/H3N2/Influenza_A_H3N2_A_Wisconsin_67_2005.seg8.primer_scheme.bed">Segment 8</a>
 
-Influenza B virus (B/Brisbane/60/2008) BED files:
-<a href="">Segment 1</a> | 
-<a href="">Segment 2</a> | 
-<a href="">Segment 3</a> | 
-<a href="">Segment 4</a> | 
-<a href="">Segment 5</a> | 
-<a href="">Segment 6</a> | 
-<a href="">Segment 7</a> | 
-<a href="">Segment 8</a>
+Influenza B virus Victoria (B/Brisbane/60/2008) BED files:
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg1.primer_scheme.bed">Segment 1</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg2.primer_scheme.bed">Segment 2</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg3.primer_scheme.bed">Segment 3</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg4.primer_scheme.bed">Segment 4</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg5.primer_scheme.bed">Segment 5</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg6.primer_scheme.bed">Segment 6</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg7.primer_scheme.bed">Segment 7</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Victoria/Influenza_B_Brisbane_60_2008.seg8.primer_scheme.bed">Segment 8</a>
 
 Influenza B virus Yamagata (B/Wisconsin/01/2010) BED files:
 <a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg1.primer_scheme.bed">Segment 1</a> | 
