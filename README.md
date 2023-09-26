@@ -244,15 +244,15 @@ Influenza B virus (B/Brisbane/60/2008) BED files:
 <a href="">Segment 7</a> | 
 <a href="">Segment 8</a>
 
-Influenza B virus (B/Wisconsin/01/2010) BED files:
-<a href="">Segment 1</a> | 
-<a href="">Segment 2</a> | 
-<a href="">Segment 3</a> | 
-<a href="">Segment 4</a> | 
-<a href="">Segment 5</a> | 
-<a href="">Segment 6</a> | 
-<a href="">Segment 7</a> | 
-<a href="">Segment 8</a>
+Influenza B virus Yamagata (B/Wisconsin/01/2010) BED files:
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg1.primer_scheme.bed">Segment 1</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg2.primer_scheme.bed">Segment 2</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg3.primer_scheme.bed">Segment 3</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg4.primer_scheme.bed">Segment 4</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg5.primer_scheme.bed">Segment 5</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg6.primer_scheme.bed">Segment 6</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg7.primer_scheme.bed">Segment 7</a> | 
+<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg8.primer_scheme.bed">Segment 8</a>
 
 <!-- 
 
