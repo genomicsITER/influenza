@@ -43,7 +43,7 @@ This is the result of a continuous collaborative effort of the following Institu
  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
       <ul>
            <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
-           <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li>
+           <!-- <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li> -->
            <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
            <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
       </ul>
