@@ -241,7 +241,7 @@ Work in progress (deposit pending)
   <ul>
     <li>Accesion 1: <a href="https://github.com/genomicsITER/influenza/blob/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150368383_2022.fasta">EPI_ISL_18128205</a></li>
     <li>Accesion 2: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150369675_2022.fasta">EPI_ISL_18308442</a></li>
-    <li>Accesion 3: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 3: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150372413_2022.fasta">EPI_ISL_18308501</a></li>
   </ul>
 
 **Sequences of Influenza A/H3N2**
