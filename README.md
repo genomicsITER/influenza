@@ -347,14 +347,14 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 > Kudos to all research teams behind the scenes in all these repositories:
 > 
 <ul>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
-  <li><a href="">text here</a></li>
+  <li><a href="https://github.com/hkailee/FluSeq">FluSeq</a></li>
+  <li><a href="https://umasangumathi.github.io/FluLINE/">FluLINE</a></li>
+  <li><a href="https://insaflu.readthedocs.io/en/latest/index.html">INSaFLU</a></li>
+  <li><a href="https://github.com/greninger-lab/revica">REVICA</a></li>
+  <li><a href="https://clades.nextstrain.org/">Nextclade</a></li>
+  <li><a href="https://nextstrain.org/influenza/">Nextstrain</a></li>
+  <li><a href="https://github.com/peterk87/nf-flu">nf-flu</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database">NCBI Influenza Virus Database</a></li>
 </ul>
 
 <p align="right">
