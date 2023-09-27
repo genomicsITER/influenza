@@ -218,7 +218,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 **BED files**
 
-Primer schemes in BED format are required in the trimming step of PCR-primers. Download the BED files separately (one file per Influenza segment).
+Primer schemes in BED format are required in the trimming step of PCR-primers.
 
 ```
 #Example:
@@ -228,6 +228,8 @@ FJ984387.1	2268	2280	Seg1_Uni13/Inf-1_RIGHT	1	-	CGGGTTATTAGTAGAAACAAGG
 FJ984387.1	1	14	Seg1_B-Pbs-UniF_LEFT	1	+	GGGGGGAGCAGAAGCGGAGC
 FJ984387.1	2266	2280	Seg1_B-Pbs-UniF_RIGHT	1	-	CCGGGTTATTAGTAGAAACACGAGC
 ```
+
+Please, download the BED files **separately** (one file per Influenza segment).
 
 |Virus strain|Seg-1|Seg-2|Seg-3|Seg-4|Seg-5|Seg-6|Seg-7|Seg-8|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -276,21 +278,6 @@ Work in progress (deposit pending)
 
   (*) Some segment/s sequence/s may be incomplete.
 
-<!-- 
-
-> Consensus FASTA file obtained from a hybrid *de novo* Illumina-Nanopore based assembly and [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
-
-NCBI GenBank Accession: ON782054. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001a/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782054)
-
-> Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
-
-NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001b/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782055)
-
-> For the published paper (<a href="#How-to-cite">see below</a>), we have sequenced more samples. Their sequences are publicly available as follows:
-- MPXV sequences of MPXV01, MPXV05, MPXV06 and MPXV07 samples obtained from the Illumina-only consensus approach have been released in the NCBI GenBank with accessions [ON782054](https://www.ncbi.nlm.nih.gov/nuccore/ON782054), [OQ581847](https://www.ncbi.nlm.nih.gov/nuccore/OQ581847), [OQ581848](https://www.ncbi.nlm.nih.gov/nuccore/OQ581848), and [OQ581849](https://www.ncbi.nlm.nih.gov/nuccore/OQ581849), respectively.
-- Hybrid de novo assemblies of MPXV01, MPXV05, MPXV06 and MPXV07 samples have also been released with accessions [ON782055](https://www.ncbi.nlm.nih.gov/nuccore/ON782055), [OQ581850](https://www.ncbi.nlm.nih.gov/nuccore/OQ581850), [OQ581851](https://www.ncbi.nlm.nih.gov/nuccore/OQ581851), and [OQ581852](https://www.ncbi.nlm.nih.gov/nuccore/OQ581852), respectively.
-
--->
 
 <p align="right">
   <a href="#Influenza" title="Up">
