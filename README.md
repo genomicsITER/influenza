@@ -212,7 +212,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 |A/H1N1|A/H3N2|B Victoria|B Yamagata|
 |:---:|:---:|:---:|:---:|
-|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/641809/">Influenza A virus (A/California/07/2009(H1N1))<br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/393902/">Influenza A virus (A/Wisconsin/67/2005(H3N2))<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/604436/">Influenza B virus Victoria (B/Brisbane/60/2008)<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1089607/">Influenza B virus Yamagata (B/Wisconsin/01/2010)<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|
+|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/641809/">Influenza A virus (A/California/07/2009(H1N1))<br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:50%;"/></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/393902/">Influenza A virus (A/Wisconsin/67/2005(H3N2))<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/604436/">Influenza B virus Victoria (B/Brisbane/60/2008)<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|<a href="https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1089607/">Influenza B virus Yamagata (B/Wisconsin/01/2010)<img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" /></a>|
 
 <br>
 
