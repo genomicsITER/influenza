@@ -218,7 +218,14 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 **BED files**
 
-BED files are required in the trimming of PCR-primers.
+Primer schemes in BED format are required in the trimming step of PCR-primers. Download the BED files separately (one file per Influenza segment).
+
+_Example_:
+_FJ984387.1	1	12	Seg1_Uni12/Inf-1_LEFT	1	+	GGGGGGAGCAAAAGCAGG_
+_FJ984387.1	1	12	Seg1_Uni12/Inf-3_LEFT	1	+	GGGGGGAGCGAAAGCAGG_
+_FJ984387.1	2268	2280	Seg1_Uni13/Inf-1_RIGHT	1	-	CGGGTTATTAGTAGAAACAAGG_
+_FJ984387.1	1	14	Seg1_B-Pbs-UniF_LEFT	1	+	GGGGGGAGCAGAAGCGGAGC_
+_FJ984387.1	2266	2280	Seg1_B-Pbs-UniF_RIGHT	1	-	CCGGGTTATTAGTAGAAACACGAGC_
 
 |Virus strain|Seg-1|Seg-2|Seg-3|Seg-4|Seg-5|Seg-6|Seg-7|Seg-8|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
