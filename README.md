@@ -448,6 +448,8 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 > This work has not been publised yet. See 'License and Attribution' section to cite this repository.
 
+> To use the deposited sequences at GISAID, please, acknowledge this work as recommended by GISAID. Find the 'GISAID acknowledge tables' <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/acknowledgements">here</a>.
+
 <p align="right">
   <a href="#Influenza" title="Up">
     <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
