@@ -257,13 +257,12 @@ Work in progress (deposit pending)
     <li>Accesion 6: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150369722_2022.fasta">EPI_ISL_18313572</li>
   </ul>
 
-**Sequences of Influenza B**
+**Sequences of Influenza B Victoria**
   <ul>
-    <li>Accesion 7: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/.fasta">full sequence</a> | sequences by chromosome</li>
-    <li>Accesion 8: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/.fasta">full sequence</a> | sequences by chromosome</li>
+    <li>Accesion 7: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/Victoria/gisaid_epiflu_B_Spain_CN-HUNSC_ITER_150387165_2023.fasta">EPI_ISL_18313574 </li>
   </ul>
 
-  (*) Some segment sequence may be incomplete.
+  (*) Some segment/s sequence/s may be incomplete.
 
 <!-- 
 
