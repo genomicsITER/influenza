@@ -293,6 +293,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 |EPI_ISL_18313572|A/Spain/CN-HUNSC_ITER|A/H3N2|3C.2a1b.2a.2b|Europe/Spain/Canary Islands|
 |EPI_ISL_18313574|B/Spain/CN-HUNSC_ITER|B|V1A.3a.2|Europe/Spain/Canary Islands|
 
+(*) NOTE: other metadata are available for these samples in <a href="https://gisaid.org/">GISAID</a> and from the authors upon a reasonable request.
+
 <p align="right">
   <a href="#Influenza" title="Up">
     <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
