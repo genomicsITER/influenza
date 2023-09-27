@@ -320,24 +320,6 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
 
 <hr>
-<!-- ------------------ SECTION 5 ------------------ 
-
-<a name="DNA-depletion"></a>
-## Enrichment of viral DNA by means of Human & Bacterial DNA depletion ##
-
-<ul>
-<li><a href="https://international.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product%20Information" target="_blank">NEBNext® Microbiome DNA Enrichment Kit</a>. See <a href="https://virological.org/t/monkeypox-virus-genome-sequences-from-multiple-lesions-indicates-co-infection-of-a-uk-returning-traveller/873">this post</a> at Virological.org</li>
-<li>See <a href="https://www.medrxiv.org/content/10.1101/2022.07.29.22278145v1">"A new and efficient enrichment method for metagenomic sequencing of monkeypox virus"</a>, which performs host DNA depletion using a saponin/NaCl combination treatment and DNase.</li>
-</ul>
-
-<p align="right">
-  <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
-
-
-<hr> -->
 
 <!-- ------------------ SECTION 6 ------------------ -->
 
