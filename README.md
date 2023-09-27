@@ -47,7 +47,7 @@ This is the result of a continuous collaborative effort of the following Institu
            <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
            <li><a href="#Useful-Files">Useful files for the pipelines (FASTA references, BED files, etc.)</a></li>
       </ul>
-  <li><a href="#Sequences">Sequences</a></li>
+  <li><a href="#Sequences-and-Classification-Results">Sequences and Classification Results</a></li>
  
   <!-- <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> -->
  
@@ -253,8 +253,10 @@ Please, download the BED files **separately** (one file per Influenza segment).
 <hr>
 <!-- ------------------ SECTION 3 ------------------ -->
 
-<a name="Sequences"></a>
-## Sequences ##
+<a name="Sequences-and-Classification-Results"></a>
+## Sequences and Classification Results ##
+
+## Deposited sequences ##
 
 Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or directly download our Influenza sequences using the links provided below.
 
@@ -279,6 +281,17 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
   (*) Some segment/s sequence/s may be incomplete.
 
+## Classification Results ##
+
+|GISAID accession|Isolate name|Subtype|Clade|Location|
+|:---|:---:|:---:|:---:|:---:|
+|EPI_ISL_18128205|A/Spain/CN-HUNSC_ITER|A/H1N1|6B.1A.5a.2a|Europe/Spain/Canary Islands|
+|EPI_ISL_18308442|A/Spain/CN-HUNSC_ITER|A/H1N1|6B.1A.5a.2a.1|Europe/Spain/Canary Islands|
+|EPI_ISL_18308501|A/Spain/CN-HUNSC_ITER|A/H1N1|6B.1A.5a.2a.1|Europe/Spain/Canary Islands|
+|EPI_ISL_18313569|A/Spain/CN-HUNSC_ITER|A/H3N2|3C.2a1b.2a.2b|Europe/Spain/Canary Islands|
+|EPI_ISL_18313571|A/Spain/CN-HUNSC_ITER|A/H3N2|3C.2a1b.2a.2b|Europe/Spain/Canary Islands|
+|EPI_ISL_18313572|A/Spain/CN-HUNSC_ITER|A/H3N2|3C.2a1b.2a.2b|Europe/Spain/Canary Islands|
+|EPI_ISL_18313574|B/Spain/CN-HUNSC_ITER|B|V1A.3a.2|Europe/Spain/Canary Islands|
 
 <p align="right">
   <a href="#Influenza" title="Up">
