@@ -344,7 +344,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <a name="Other-repos"></a>
 ## Other useful repositories with resources to study Influenza ##
 
-> Kudos to all research teams behind the scenes in all these repositories:
+<details>
+<summary>Kudos to all research teams behind the scenes in all these repositories and web platforms:</summary>
 
 <ul>
   <li><a href="https://umasangumathi.github.io/FluLINE/">FluLINE</a></li>
@@ -357,6 +358,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
   <li><a href="https://github.com/greninger-lab/revica">REVICA</a></li>
 </ul>
 
+</details>
+ 
 <p align="right">
   <a href="#Influenza" title="Up">
     <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
