@@ -229,6 +229,7 @@ FJ984387.1	2268	2280	Seg1_Uni13/Inf-1_RIGHT	1	-	CGGGTTATTAGTAGAAACAAGG
 FJ984387.1	1	14	Seg1_B-Pbs-UniF_LEFT	1	+	GGGGGGAGCAGAAGCGGAGC
 FJ984387.1	2266	2280	Seg1_B-Pbs-UniF_RIGHT	1	-	CCGGGTTATTAGTAGAAACACGAGC
 ```
+<br>
 
 Please, download the BED files **separately** (one file per Influenza segment).
 
