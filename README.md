@@ -476,7 +476,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs ##
 
-> October 1, 2023. This repository became public. Enjoy the reading! ;=)
+> September 27, 2023. This repository became public. Enjoy the reading! ;=)
 
 > September 26, 2023. Updated many sections: bioinformatic pipeline, primer-schemes (required BED files for the pipelines), deposited sequences, Influenza virus A and B reference sequences, and other useful repositories with resources to study Influenza.
  
