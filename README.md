@@ -289,9 +289,9 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
 <hr>
 
-<!--
-<!-- ------------------ SECTION 4 ------------------ -->
 
+<!-- ------------------ SECTION 4 ------------------ -->
+<!--
 <a name="How-to-GenBank"></a>
 ## How to download sequences and metadata from GenBank ##
 
@@ -321,8 +321,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 </p>
 
 
-<hr>
--->
+<hr> -->
+
 
 <!-- ------------------ SECTION 6 ------------------ -->
 
