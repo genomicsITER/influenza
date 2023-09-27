@@ -107,7 +107,7 @@ One of the sequencing strategies followed for SARS-CoV-2 surveillance is the use
 
 Lin Y. et al. [<a href="#References">8</a>] have adapted the Illumina COVIDSeq™ Assay (RUO) kit to get the sequence of influenza A and B viral genomes. Their protocol uses a combination of two primer sets (references), follows the Illumina COVIDSeq™ Assay protocol with minor modifications, and the take advantage of the same reagents included in the kit: <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">A sequencing and subtyping protocol for Influenza A and B viruses using Illumina® COVIDSeq™ Assay Kit</a> at <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">protocols.io</a>.
 
-According to Lin Y. et al., this protocol provides accurate information for subtyping, lineage tracing, and antiviral resistance detection of influenza viruses.
+According to Lin Y. et al.[<a href="#References">8</a>], this protocol provides accurate information for subtyping, lineage tracing, and antiviral resistance detection of influenza viruses.
 
 <hr>
 
