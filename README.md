@@ -48,10 +48,10 @@ This is the result of a continuous collaborative effort of the following Institu
            <li><a href="#Useful-Files">Useful files for the pipelines (FASTA references, BED files, etc.)</a></li>
       </ul>
   <li><a href="#Sequences">Sequences</a></li>
-  <!-- 
-  <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> 
-  <li><a href="#DNA-depletion">Enrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
-  <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li> -->
+ 
+  <!-- <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> -->
+ 
+  <li><a href="#Other-repos">Other useful repositories with resources to study Influenza</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
@@ -288,6 +288,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
 
 <hr>
+
+<!--
 <!-- ------------------ SECTION 4 ------------------ -->
 
 <a name="How-to-GenBank"></a>
@@ -320,6 +322,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
 
 <hr>
+-->
 
 <!-- ------------------ SECTION 6 ------------------ -->
 
