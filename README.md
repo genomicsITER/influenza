@@ -279,7 +279,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
     <li>Accesion 7: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/Victoria/gisaid_epiflu_B_Spain_CN-HUNSC_ITER_150387165_2023.fasta">EPI_ISL_18313574 </li>
   </ul>
 
-  (*) Some segment/s sequence/s may be incomplete.
+  (*) NOTE: Some segment/s sequence/s may be incomplete.
 
 ## Classification Results ##
 
