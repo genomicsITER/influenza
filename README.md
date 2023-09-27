@@ -220,10 +220,11 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 Primer schemes in BED format are required in the trimming step of PCR-primers.
 
-BED format is as follows:
+###BED format
+
+Example of BED file for segment 1 (FJ984387.1) of Influenza A virus (A/California/07/2009(H1N1)):
 
 ```
-#Example of BED file for segment 1 (FJ984387.1) of Influenza A virus (A/California/07/2009(H1N1)):
 FJ984387.1	1	12	Seg1_Uni12/Inf-1_LEFT	1	+	GGGGGGAGCAAAAGCAGG
 FJ984387.1	1	12	Seg1_Uni12/Inf-3_LEFT	1	+	GGGGGGAGCGAAAGCAGG
 FJ984387.1	2268	2280	Seg1_Uni13/Inf-1_RIGHT	1	-	CGGGTTATTAGTAGAAACAAGG
