@@ -280,6 +280,8 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
   (*) NOTE: Some segment/s sequence/s may be incomplete.
 
+<br>
+
 ### Classification Results
 
 |GISAID accession|Isolate name|Subtype|Clade|Location|
