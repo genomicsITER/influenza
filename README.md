@@ -258,8 +258,6 @@ Please, download the BED files **separately** (one file per Influenza segment).
 
 Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or directly download our Influenza sequences using the links provided below.
 
-Work in progress (deposit pending)
-
 **Sequences of Influenza A/H1N1**
   <ul>
     <li>Accesion 1: <a href="https://github.com/genomicsITER/influenza/blob/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150368383_2022.fasta">EPI_ISL_18128205</a></li>
