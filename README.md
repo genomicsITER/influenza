@@ -31,7 +31,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-# Table of contents #
+## Table of contents
 <ul>
   <li><a href="#Virological-posts">A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023</a></li>
   <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
@@ -64,7 +64,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <!-- ------------------ SECTION 1 ------------------ -->
 
 <a name="Virological-posts"></a>
-## A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023 ##
+## A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023
 
 <!-- A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, will be shared through Virological shortly. Keep reading! [Here.](https://virological.org/) 
 -->
@@ -98,7 +98,7 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
 <!-- ------------------ SECTION 2 ------------------ -->
 
 <a name="Protocols"></a>
-## Protocols for library preparation and sequencing of Influenza viral genomes ##
+## Protocols for library preparation and sequencing of Influenza viral genomes
 
 <a name="Illumina-protocol"></a>
 **Illumina-based protocol**
@@ -141,7 +141,7 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 <!-- ------------------ SECTION 3 ------------------ -->
 
 <a name="Bioinformatic pipelines"></a>
-## Bioinformatic pipelines ##
+## Bioinformatic pipelines
 
 The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-reads Illumina sequencing technology. A complementary pipeline is being designed and will be shown here by October 2023.
 
@@ -254,9 +254,9 @@ Please, download the BED files **separately** (one file per Influenza segment).
 <!-- ------------------ SECTION 3 ------------------ -->
 
 <a name="Sequences-and-Classification-Results"></a>
-## Sequences and Classification Results ##
+## Sequences and Classification Results
 
-## Deposited sequences ##
+### Deposited sequences
 
 Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or directly download our Influenza sequences using the links provided below.
 
@@ -281,7 +281,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 
   (*) NOTE: Some segment/s sequence/s may be incomplete.
 
-## Classification Results ##
+### Classification Results
 
 |GISAID accession|Isolate name|Subtype|Clade|Location|
 |:---|:---:|:---:|:---:|:---:|
@@ -342,7 +342,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="Other-repos"></a>
-## Other useful repositories with resources to study Influenza ##
+## Other useful repositories with resources to study Influenza
 
 <details>
 <summary>Kudos to all research teams behind the scenes in all these repositories and web platforms:</summary>
@@ -371,7 +371,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <!-- ------------------ SECTION 7 ------------------ -->
 
 <a name="References"></a>
-## References ##
+## References
 
 <ol>
 <li><a href="https://www.who.int/publications/i/item/9789240018440">Genomic sequencing of SARS-CoV-2. A guide to implementation for maximum impact on public health</a>, WHO, January 8, 2021.</li>
@@ -396,7 +396,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <!-- ------------------ SECTION 8 ------------------ -->
 
 <a name="Acknowledgements"></a>
-## Acknowledgements ##
+## Acknowledgements
 
 This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "_Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19_"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "_A way of making Europe_", by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008); and by the agreement between Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias y Cabildo Insular de Tenerife, 2022-2025.
 
@@ -423,7 +423,7 @@ We also thank the authors, the laboratories that originated and submitted the ge
 <!-- ------------------ SECTION 9 ------------------ -->
 
 <a name="License and Attribution"></a>
-## License and Attribution ##
+## License and Attribution
 
 This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work (third-party copyrights and licenses may apply).
 
@@ -440,7 +440,7 @@ Please cite this repository as: _"Influenza repository of the Reference Laborato
 <!-- ------------------ SECTION 10 ------------------ -->
 
 <a name="Participating"></a>
-## Participating ##
+## Participating
 
 > Want to share your relevant links? Place a Direct Message to @labcflores, @adrmunozb or @resocios on Twitter (see below).
 
@@ -465,7 +465,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <!-- ------------------ SECTION 11 ------------------ -->
 
 <a name="How-to-cite"></a>
-## How to cite this work ##
+## How to cite this work
 
 > This work has not been publised yet. See 'License and Attribution' section to cite this repository.
 
@@ -482,7 +482,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <!-- ------------------ SECTION 12 ------------------ -->
 
 <a name="Update logs"></a>
-## Update logs ##
+## Update logs
 
 > September 27, 2023. This repository became public. Enjoy the reading! ;=)
 
