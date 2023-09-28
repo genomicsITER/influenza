@@ -183,7 +183,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 **List of bioinformatic software used in our pipelines**
 
 <details>
-<summary>Bioinformatic software:</summary>
+<summary>Bioinformatic software (click to display):</summary>
 <ul>
   <li>Conda manual for installation of numerous open-source tools used in these pipelines:<a href="https://docs.conda.io/en/latest/">Conda documentation</a></li>
   <li>Programming environment of general purpose: <a href="https://www.r-project.org/">R v.4.1.3</a></li>
@@ -350,7 +350,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 ## Other useful repositories with resources to study Influenza
 
 <details>
-<summary>Kudos to all research teams behind the scenes in all these repositories and web platforms:</summary>
+<summary>Kudos to all research teams behind the scenes in all these repositories and web platforms (click to display):</summary>
 
 <ul>
   <li><a href="https://umasangumathi.github.io/FluLINE/">FluLINE</a></li>
