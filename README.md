@@ -181,6 +181,9 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 <a name="List-of-software"></a>
 **List of bioinformatic software used in our pipelines**
+
+<details>
+<summary>Bioinformatic software:</summary>
 <ul>
   <li>Conda manual for installation of numerous open-source tools used in these pipelines:<a href="https://docs.conda.io/en/latest/">Conda documentation</a></li>
   <li>Programming environment of general purpose: <a href="https://www.r-project.org/">R v.4.1.3</a></li>
@@ -202,7 +205,8 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
   <li>Visualization of phylogenetic trees: <a href="https://bioconductor.org/packages/release/bioc/html/ggtree.html/">ggtree 3.15</a></li>
   <li>Annotation of genomes: <a href="https://pcingola.github.io/SnpEff/">SnpEff v.5.1d</a></li>
 </ul>
-
+</details>details>
+ 
 <hr>
 
 <a name="Useful-Files"></a>
