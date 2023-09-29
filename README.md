@@ -111,7 +111,7 @@ According to Lin Y. et al.[<a href="#References">8</a>], this protocol provides 
 <a name="ONT-protocol"></a>
 **Oxford Nanopore Technologies-based protocol**
 
-Working in progress. Come back by the end of December 2023 to find new stuff in this section.
+_Work in progress_. Come back by the end of December 2023 to find new stuff in this section.
 
 <hr>
           
