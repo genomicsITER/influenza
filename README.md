@@ -51,7 +51,7 @@ This is the result of a continuous collaborative effort of the following Institu
  
   <!-- <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> -->
  
-  <li><a href="#Other-repos">Other useful repositories with resources to study Influenza</a></li>
+  <li><a href="#Other-repos">Other useful repositories with resources to study influenza</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
@@ -140,13 +140,13 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines
 
-The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-reads Illumina sequencing technology. A complementary pipeline is being designed and will be shown here by October 2023.
+The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-read Illumina sequencing. A complementary pipeline is being designed and will be shown here by October 2023.
 
-In the upper part of the diagram, there is a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
+In the upper part of the diagram, there is a typical pipeline to process short reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
-In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, it shows how to perform a hybrid *de novo* assembly combining short- and long-reads.
+In the lower part of the diagram, a typical pipeline to process long reads is shown. In addition, it shows how to perform a hybrid *de novo* genome assembly combining short and long reads.
 
-Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipeline based on mapping of Illumina short-reads against an Influenza reference genome have been obtained so far. They have been deposited in GISAID EpiFlu (see <a href="#Sequences">'Sequences'</a> section below).
+Several consensus influenza A/H1N1 and A/H3N2 sequences derived from the pipeline based on the mapping of Illumina short reads against an influenza virus reference genome have been obtained so far. They have been deposited in GISAID EpiFlu (see <a href="#Sequences">'Sequences'</a> section below).
 
 <p align="center">
   <a href="https://github.com/genomicsITER/influenza" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
@@ -154,14 +154,14 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
   </a>
 </p>
 
-**Figure 3**. Full bioinformatic pipeline to obtain the Influenza sequences and to infer phylogenetic relationships with other Influenza viral genomes available obtained from public repositories as provided by Nextstrain.
+**Figure 3**. Schematic bioinformatic pipeline to obtain the influenza sequences and to infer phylogenetic relationships with other influenza virus genomes available obtained from public repositories as provided by Nextstrain.
 
 <hr>
 
 <a name="Code-Illumina"></a>
 **Code for Illumina short-reads processing**
 
-<a href="https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md"><img src="https://github.com/genomicsITER/influenza/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md).
+<a href="https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md"><img src="https://github.com/genomicsITER/influenza/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Illumina short reads](https://github.com/genomicsITER/influenza/blob/main/codes/code_Illumina_pipeline.md).
 
 <!-- 
 
@@ -170,7 +170,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 <a name="Code-ONT"></a>
 **Code for Nanopore long-reads processing and hybrid *de novo* assemby**
 
-<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md).
+<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md).
 
 -->
 
@@ -221,7 +221,7 @@ Several consensus Influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 Primer schemes in BED format are required in the trimming step of PCR-primers.
 
-Example of a <code>BED file</code> for segment 1 (FJ984387.1) of Influenza A virus (A/California/07/2009(H1N1)) using the <a href="#PCR-universal-primers">primer-scheme</a>:
+Example of a <code>BED file</code> for segment 1 (FJ984387.1) of influenza A virus (A/California/07/2009(H1N1)) using the <a href="#PCR-universal-primers">primer-scheme</a>:
 
 ```
 FJ984387.1	1	12	Seg1_Uni12/Inf-1_LEFT	1	+	GGGGGGAGCAAAAGCAGG
@@ -232,7 +232,7 @@ FJ984387.1	2266	2280	Seg1_B-Pbs-UniF_RIGHT	1	-	CCGGGTTATTAGTAGAAACACGAGC
 ```
 <br>
 
-Please, download the BED files **separately** (one file per Influenza segment).
+Please, download the BED files **separately** (one file per influenza segment).
 
 |Virus strain|Seg-1<br>(PB2)|Seg-2<br>(PB1)|Seg-3<br>(PA)|Seg-4<br>(HA)|Seg-5<br>(NP)|Seg-6<br>(NA)|Seg-7<br>(MP)|Seg-8<br>(NS)|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -258,23 +258,23 @@ Please, download the BED files **separately** (one file per Influenza segment).
 
 ### Deposited sequences
 
-Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or directly download our Influenza sequences using the links provided below.
+Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You may search in GISAID by using the accession codes provided or proceed directly downloading our influenza sequences using the links provided below.
 
-**Sequences of Influenza A/H1N1**
+**Sequences of influenza A/H1N1**
   <ul>
     <li>Accesion 1: <a href="https://github.com/genomicsITER/influenza/blob/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150368383_2022.fasta">EPI_ISL_18128205</a></li>
     <li>Accesion 2: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150369675_2022.fasta">EPI_ISL_18308442</a></li>
     <li>Accesion 3: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H1N1/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150372413_2022.fasta">EPI_ISL_18308501</a></li>
   </ul>
 
-**Sequences of Influenza A/H3N2**
+**Sequences of influenza A/H3N2**
   <ul>
     <li>Accesion 4: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150368334_2022.fasta">EPI_ISL_18313569</li>
     <li>Accesion 5: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150369410_2022.fasta">EPI_ISL_18313571</li>
     <li>Accesion 6: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/A/H3N2/gisaid_epiflu_A_Spain_CN-HUNSC_ITER_150369722_2022.fasta">EPI_ISL_18313572</li>
   </ul>
 
-**Sequences of Influenza B Victoria**
+**Sequences of influenza B Victoria**
   <ul>
     <li>Accesion 7: <a href="https://github.com/genomicsITER/influenza/tree/main/sequences/B/Victoria/gisaid_epiflu_B_Spain_CN-HUNSC_ITER_150387165_2023.fasta">EPI_ISL_18313574 </li>
   </ul>
@@ -344,7 +344,7 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="Other-repos"></a>
-## Other useful repositories with resources to study Influenza
+## Other useful repositories with resources to study influenza
 
 <details>
 <summary>Kudos to all research teams behind the scenes in all these repositories and web platforms (click to display):</summary>
@@ -400,11 +400,11 @@ Sequences are being deposited at <a href="https://gisaid.org/">GISAID</a>. You m
 <a name="Acknowledgements"></a>
 ## Acknowledgements
 
-This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "_Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19_"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "_A way of making Europe_", by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008); and by the agreement between Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias y Cabildo Insular de Tenerife, 2022-2025.
+This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "_Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19_"); by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, epidemiological surveillance based on massive sequencing, Personalized Medicine and Biotechnology (OA17/008 and OA23/043); and by the agreement between Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias y Cabildo Insular de Tenerife, 2022-2025 (AC0000014697).
 
-This study is also an activity within the project _Consolidation of WGS and RT-PCR activities for SARS-CoV-2 in Spain towards sustainable use and integration of enhanced infrastructure and capacities in the RELECOV network (RELECOV 2.0)_ of the EU4Health Programme (EU4H), under the coordination of Instituto de Salud Carlos III (ISCIII).
+This study is also an activity within the project Consolidation of WGS and RT-PCR activities for SARS-CoV-2 in Spain towards sustainable use and integration of enhanced infrastructure and capacities in the RELECOV network (101113109 - RELECOV 2.0) of the EU4Health Programme (EU4H) by the European Health and Digital Executive Agency (HaDEA), under the coordination of Instituto de Salud Carlos III (ISCIII).
 
-We acknowledge the researchers and their institutions who released Influenza sequences through NCBI GenBank, GISAID, and ENA that are being used in our studies. 
+We acknowledge the researchers and their institutions who released influenza sequences through NCBI GenBank, GISAID, and ENA that are being used in our studies. 
 
 We also thank the authors, the laboratories that originated and submitted the genetic sequences and the metadata for sharing their work, as shown on Nextstrain, and:
 <ul>
