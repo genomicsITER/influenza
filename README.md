@@ -66,7 +66,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological-posts"></a>
 ## A draft of the first influenza genomes from the Canary Islands, Spain, 2022-2023
 
-The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) described by us are phylogenetically related to the multiple viral genomes deposited in <a href="https://gisaid.org/">GISAID</a> that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
+The first genome sequences of influenza virus A/H1N1, A/H3N2, and B (Victoria) described by us are phylogenetically related to the multiple viral genomes deposited in <a href="https://gisaid.org/">GISAID</a> that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
 
 <p align="center">
   <a href="#Influenza" title="Up">
@@ -74,7 +74,7 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the position of the genome draft of influenza A/H1N1 sampled in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H1N1pdm HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY121680">A/California/07/2009 (CY121680)</a>] as reference.
+**Figure 1**. A phylogenetic tree depicting the position of the genome draft of influenza A/H1N1 sampled in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and influenza A H1N1pdm HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY121680">A/California/07/2009 (CY121680)</a>] as reference.
 
 
 <p align="center">
@@ -83,7 +83,7 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
   </a>
 </p>
 
-**Figure 2**. A phylogenetic tree depicting the position of the genome draft of influenza A/H3N2 sampled in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H3N2 HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY163680">A/Wisconsin/67/2005 (CY163680)</a>] as reference.
+**Figure 2**. A phylogenetic tree depicting the position of the genome draft of influenza A/H3N2 sampled in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and influenza A H3N2 HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY163680">A/Wisconsin/67/2005 (CY163680)</a>] as reference.
 
 <p align="right">
   <a href="#Influenza" title="Up">
