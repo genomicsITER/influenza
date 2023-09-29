@@ -14,11 +14,11 @@
       </a>
 </p>
 
-# Influenza
+# Influenza virus genomic surveillance in the Canary Islands
 
-The COVID-19 pandemic has shown the impact of genomic surveillance of emergent and re-emergent pathogens based on Next Generation Sequencing (NGS), as has been recognized by the World Health Organization [<a href="#References">1,2</a>]. Guiding the Public Health response has been accelerated thanks to the generalization of the NGS, allowing the identification and monitoring of emerging SARS-CoV-2 variants in a routine basis accross the World.
+The COVID-19 pandemic has shown the impact of genomic surveillance of emergent and re-emergent pathogens based on Next Generation Sequencing (NGS), as has been recognized by the World Health Organization [<a href="#References">1,2</a>]. Guiding the Public Health response has been accelerated by to the generalization of the NGS, allowing the identification and monitoring of emerging SARS-CoV-2 variants in a routine basis across the World.
 
-Here we present a public repository of Influenza (Inf) related resources maintained by ITER-FIISC-HUNSC- task force.
+Here we present a public repository of influenza viruses (Inf) related resources maintained by the ITER-FIISC-HUNSC-ULL task force.
 
 This is the result of a continuous collaborative effort of the following Institutions and Laboratories:
 <ul>
@@ -33,11 +33,11 @@ This is the result of a continuous collaborative effort of the following Institu
 
 ## Table of contents
 <ul>
-  <li><a href="#Virological-posts">A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023</a></li>
-  <li><a href="#Protocols">Protocols for library preparation and sequencing of Influenza viral genomes</a></li>
+  <li><a href="#Virological-posts">A draft of the first influenza genomes from the Canary Islands, Spain, 2022-2023</a></li>
+  <li><a href="#Protocols">Protocols for library preparation and sequencing of influenza virus genomes</a></li>
       <ul>
           <li><a href="#Illumina-protocol">Illumina-based protocol</a></li>
-          <li><a href="#ONT-protocol">ONT-based protocol</a></li>
+          <li><a href="#ONT-protocol">Oxford Nanopore Technologies-based protocol</a></li>
           <li><a href="#PCR-universal-primers">PCR universal primers</a></li>
       </ul>
  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
@@ -64,10 +64,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <!-- ------------------ SECTION 1 ------------------ -->
 
 <a name="Virological-posts"></a>
-## A draft of the first Influenza genomes from the Canary Islands, Spain, 2022-2023
-
-<!-- A technical post with the draft of the first Influenza genomes from the Canary Islands, Spain, will be shared through Virological shortly. Keep reading! [Here.](https://virological.org/) 
--->
+## A draft of the first influenza genomes from the Canary Islands, Spain, 2022-2023
 
 The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) described by us are phylogenetically related to the multiple viral genomes deposited in <a href="https://gisaid.org/">GISAID</a> that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
 
@@ -77,7 +74,7 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
   </a>
 </p>
 
-**Figure 1**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H1N1 isolated in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H1N1pdm HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY121680">A/California/07/2009 (CY121680)</a>] as reference.
+**Figure 1**. A phylogenetic tree depicting the position of the genome draft of influenza A/H1N1 sampled in the period November-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H1N1pdm HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY121680">A/California/07/2009 (CY121680)</a>] as reference.
 
 
 <p align="center">
@@ -86,7 +83,7 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
   </a>
 </p>
 
-**Figure 2**. A phylogenetic tree depicting the position of the genome draft of Influenza A/H3N2 isolated in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H3N2 HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY163680">A/Wisconsin/67/2005 (CY163680)</a>] as reference.
+**Figure 2**. A phylogenetic tree depicting the position of the genome draft of influenza A/H3N2 sampled in the period October-December 2022, from patients from the Canary Islands along with NCBI GenBank publicly available sequences as computed by <a href="https://clades.nextstrain.org/">Nextstrain</a> using the HA gene and Influenza A H3N2 HA [<a href="https://www.ncbi.nlm.nih.gov/nuccore/CY163680">A/Wisconsin/67/2005 (CY163680)</a>] as reference.
 
 <p align="right">
   <a href="#Influenza" title="Up">
@@ -98,21 +95,21 @@ The first genome sequences of Influenza virus A/H1N1, A/H3N2, and B (Victoria) d
 <!-- ------------------ SECTION 2 ------------------ -->
 
 <a name="Protocols"></a>
-## Protocols for library preparation and sequencing of Influenza viral genomes
+## Protocols for library preparation and sequencing of influenza virus genomes
 
 <a name="Illumina-protocol"></a>
 **Illumina-based protocol**
 
-One of the sequencing strategies followed for SARS-CoV-2 surveillance is the use of amplicons derived from primer pools designed by the ARTIC community following a tiling approach [<a href="#References">3,4,5</a>]. However, this approach is not suitable for influenza viruses because of their mutational burden and higher variability. Besides, it is possible to use the so called universal primers taking advantage of the conserved promoter regions at the 5' and 3' ends of the influenza genome segments in order to amplify the entire genome using larger amplicons [<a href="#References">6,7</a>] (see the PCR-primers section).
+One of the sequencing strategies followed for SARS-CoV-2 surveillance is the use of amplicons derived from primer pools designed by the ARTIC community following a tiling approach [<a href="#References">3,4,5</a>]. However, this approach is not suitable for influenza viruses because of their mutational burden and higher variability. Besides, it is possible to use the so-called universal primers taking advantage of the conserved promoter regions at the 5' and 3' ends of the influenza genome segments in order to amplify the entire genome using larger amplicons [<a href="#References">6,7</a>] (see the PCR-primers section).
 
-Lin Y. et al. [<a href="#References">8</a>] have adapted the Illumina COVIDSeq™ Assay (RUO) kit to get the sequence of influenza A and B viral genomes. Their protocol uses a combination of two primer sets (references), follows the Illumina COVIDSeq™ Assay protocol with minor modifications, and the take advantage of the same reagents included in the kit: <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">A sequencing and subtyping protocol for Influenza A and B viruses using Illumina® COVIDSeq™ Assay Kit</a> at <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">protocols.io</a>.
+Lin Y. et al. [<a href="#References">8</a>] have adapted the Illumina COVIDSeq™ Assay (RUO) kit to obtain the genomic sequence of influenza A and B viruses. Their protocol uses a combination of two primer sets (references), followed by the Illumina COVIDSeq™ Assay protocol with minor modifications, taking advantage of the same reagents included in the kit: <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">A sequencing and subtyping protocol for Influenza A and B viruses using Illumina® COVIDSeq™ Assay Kit</a> at <a href="https://www.protocols.io/view/a-sequencing-and-subtyping-protocol-for-influenza-n2bvj8mrxgk5/v1">protocols.io</a>.
 
 According to Lin Y. et al.[<a href="#References">8</a>], this protocol provides accurate information for subtyping, lineage tracing, and antiviral resistance detection of influenza viruses.
 
 <hr>
 
 <a name="ONT-protocol"></a>
-**ONT-based protocol**
+**Oxford Nanopore Technologies-based protocol**
 
 Working in progress. Come back by the end of December 2023 to find new stuff in this section.
 
@@ -126,7 +123,7 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 
 <p align="center">
   <a href="#Influenza" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_Zhou-2012-2014_Universal_Primers.png" width="75%" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Influenza_Zhou-2012-2014_Universal-Primers.png" width="75%" />
   </a>
 </p>
 
