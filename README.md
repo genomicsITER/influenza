@@ -66,7 +66,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological-posts"></a>
 ## A draft of the first influenza genomes from the Canary Islands, Spain, 2022-2023
 
-The first genome sequences of influenza virus A/H1N1, A/H3N2, and B (Victoria) described by us are phylogenetically related to the multiple viral genomes deposited in <a href="https://gisaid.org/">GISAID</a> that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
+The first genome sequences of influenza virus A/H1N1, A/H3N2, and B (Victoria) described by us are phylogenetically related to the multiple virus genomes deposited in <a href="https://gisaid.org/">GISAID</a> that correspond to the past 2022-2023 seasonal flu wave in the Northern hemisphere, as shown in Figures 1 and 2.
 
 <p align="center">
   <a href="#Influenza" title="Up">
