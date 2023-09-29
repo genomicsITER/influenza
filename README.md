@@ -140,7 +140,7 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines
 
-The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-read Illumina sequencing. A complementary pipeline is being designed and will be shown here by October 2023.
+The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-read Illumina sequencing.
 
 In the upper part of the diagram, there is a typical pipeline to process short reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
