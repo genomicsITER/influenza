@@ -416,7 +416,7 @@ outfile="multifasta.${strain}.fa"
 
 cat ${sequences_dir}/*.${strain}.seg4.consensus.fa ${infile} > ${outfile}
 
-...
+# You upload this multifasta file to Nextclade (https://clades.nextstrain.org/) and select the correct pathogen to run clade assignment, mutation calling, and sequence quality checks.
 ```
 
 <a name="11"></a> 
