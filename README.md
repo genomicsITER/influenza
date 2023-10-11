@@ -162,7 +162,7 @@ A heatmap of amplicon median coverage (x) for influenza A/H1N1 and A/H3N2 sequen
   </a>
 </p>
 
-**Figure 4**. Heatmap of amplicon median coverage for influenza A/H1N1 (up) and A/H3N2 sequences (bottom) obtained with an Illumina NextSeq550 sequencer collected from nasopharyngeal swabs from seven patients. 
+**Figure 4**. Heatmap of amplicon median coverage for influenza A/H1N1 (up) and A/H3N2 sequences (bottom) obtained with an Illumina NextSeq550 sequencer collected from nasopharyngeal swabs from seven patients (Ct<30). 
 
 <hr>
 
