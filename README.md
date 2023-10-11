@@ -158,7 +158,7 @@ A heatmap of amplicon median coverage (x) for influenza A/H1N1 and A/H3N2 sequen
 
 <p align="center">
   <a href="https://github.com/genomicsITER/influenza/blob/main/figures/Inf-A-H1N1-and-Inf-A-H3N2.amplicons-coverage.heatmap.png" title="Up">
-    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Inf-A-H1N1-and-Inf-A-H3N2.amplicons-coverage.heatmap.png" width="50%" />
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Inf-A-H1N1-and-Inf-A-H3N2.amplicons-coverage.heatmap.png" width="75%" />
   </a>
 </p>
 
