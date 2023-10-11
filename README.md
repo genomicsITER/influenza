@@ -142,9 +142,7 @@ PCR Universal Primers from Zhout et al. (<a href="https://link.springer.com/prot
 
 The following diagram (Figure 3) represents a full pipeline used to derive the consensus FASTA sequence of influenza viruses using short-read Illumina sequencing.
 
-In the upper part of the diagram, there is a typical pipeline to process short reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
-
-In the lower part of the diagram, a typical pipeline to process long reads is shown. In addition, it shows how to perform a hybrid *de novo* genome assembly combining short and long reads.
+The pipeline process short reads, from the basecalling to the final consensus FASTA sequence, and ends with downstream analysis such as the phylogenetic inference.
 
 Several consensus influenza A/H1N1 and A/H3N2 sequences derived from the pipeline based on the mapping of Illumina short reads against an influenza virus reference genome have been obtained so far. They have been deposited in GISAID EpiFlu (see <a href="#Sequences-and-Classification-Results">'Sequences'</a> section below).
 
