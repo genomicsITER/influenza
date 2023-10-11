@@ -154,6 +154,16 @@ Several consensus influenza A/H1N1 and A/H3N2 sequences derived from the pipelin
 
 **Figure 3**. Schematic bioinformatic pipeline to obtain the influenza sequences and to infer phylogenetic relationships with other influenza virus genomes available obtained from public repositories as provided by Nextstrain.
 
+A heatmap of amplicon median coverage (x) for influenza A/H1N1 and A/H3N2 sequence is shown in Figure 4.
+
+<p align="center">
+  <a href="https://github.com/genomicsITER/influenza/blob/main/figures/Inf-A-H1N1-and-Inf-A-H3N2.amplicons-coverage.heatmap.png" title="Up">
+    <img src="https://github.com/genomicsITER/influenza/blob/main/figures/Inf-A-H1N1-and-Inf-A-H3N2.amplicons-coverage.heatmap.png" width="50%" />
+  </a>
+</p>
+
+**Figure 4**. Heatmap of amplicon median coverage for influenza A/H1N1 (up) and A/H3N2 sequences (bottom) obtained with an Illumina NextSeq550 sequencer collected from nasopharyngeal swabs from seven patients. 
+
 <hr>
 
 <a name="Code-Illumina"></a>
