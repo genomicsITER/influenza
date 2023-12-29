@@ -492,6 +492,8 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs
 
+> December 29, 2023. Figure 3 is updated. The bioinformatic workflow is enriched with an addition step of de novo assembly with Unycicler (SPAdes) in the case of multiple sequence alignment failure. Also updated the code for the de novo assembly. Notice that BED files for Influenza A (H1N1 and H3N2) and B have been updated (strands and coordinates for the oligos were updated from a previous version of these files).
+
 > September 29, 2023. This repository became fully public. Enjoy the reading! ;=)
 
 > September 26, 2023. Updated many sections: bioinformatic pipeline, primer-schemes (required BED files for the pipelines), deposited sequences, Influenza virus A and B reference sequences, and other useful repositories with resources to study Influenza.
