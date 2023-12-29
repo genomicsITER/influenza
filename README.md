@@ -248,7 +248,19 @@ Please, download the BED files **separately** (one file per influenza segment).
 <!-- |Inf. B virus Yamagata (B/Wisconsin/01/2010)|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg1.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg2.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg3.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg4.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg5.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg6.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg7.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>|<a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/B/Yamagata/Influenza_B_Wisconsin_01_2005.seg8.primer_scheme.bed"><br><img src="images/Pictogrammers-Material-Text-box-search-outline.64.png" style="width:32px;" title="Download BED file" alt="Download BED file" /></a>| -->
 
 <br>
- 
+
+### Collapsed-per-region BED files for mosdepth
+
+The following BED files can be feeded to mosdepth to compute de mean coverage per segment in each virus variant:
+
+<ul>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H1N1_A_California_07_2009.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus <br>A/California/07/2009(H1N1)</li>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H3N2_A_Wisconsin_67_2005.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus <br>A/Wisconsin/67/2005(H3N2)</li>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_B_Brisbane_60_2008.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. B virus Victoria <br>B/Brisbane/60/2008</li>
+</ul>
+
+<br>
+
 <p align="right">
   <a href="#Influenza" title="Up">
     <img src="https://github.com/genomicsITER/influenza/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
