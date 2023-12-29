@@ -251,7 +251,7 @@ Please, download the BED files **separately** (one file per influenza segment).
 
 ### Collapsed-per-region BED files for mosdepth
 
-The following BED files can be feeded to mosdepth to compute de mean coverage per segment in each virus variant:
+The following BED files can be feeded to mosdepth to compute de mean coverage per segment in each virus strain:
 
 <ul>
  <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H1N1_A_California_07_2009.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus [A/California/07/2009(H1N1)]</li>
@@ -504,7 +504,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs
 
-> December 29, 2023. Figure 3 is updated. The bioinformatic workflow is enriched with an addition step of de novo assembly with Unycicler (SPAdes) in the case of multiple sequence alignment failure. Also updated the code for the de novo assembly. Notice that BED files for Influenza A (H1N1 and H3N2) and B have been updated (strands and coordinates for the oligos were updated from a previous version of these files).
+> December 29, 2023. Several updates follows: figure 3 is updated; the bioinformatic workflow is enriched with an addition step of de novo assembly with Unycicler (SPAdes) in the case of multiple sequence alignment failure; BED files for Influenza A (H1N1 and H3N2) and B have been updated (strands and coordinates for the oligos were updated from a previous version of these files); useful BED files for mosdepth are provided to compute mean coverage-per-region in each strain.
 
 > September 29, 2023. This repository became fully public. Enjoy the reading! ;=)
 
