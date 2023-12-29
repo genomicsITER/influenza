@@ -254,9 +254,9 @@ Please, download the BED files **separately** (one file per influenza segment).
 The following BED files can be feeded to mosdepth to compute de mean coverage per segment in each virus variant:
 
 <ul>
- <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H1N1_A_California_07_2009.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus <br>A/California/07/2009(H1N1)</li>
- <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H3N2_A_Wisconsin_67_2005.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus <br>A/Wisconsin/67/2005(H3N2)</li>
- <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_B_Brisbane_60_2008.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. B virus Victoria <br>B/Brisbane/60/2008</li>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H1N1_A_California_07_2009.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus [A/California/07/2009(H1N1)]</li>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_A_H3N2_A_Wisconsin_67_2005.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. A virus [A/Wisconsin/67/2005(H3N2)]</li>
+ <li><a href="https://github.com/genomicsITER/influenza/blob/main/primer_schemes/mosdepth/Influenza_B_Brisbane_60_2008.all_segments.primer_scheme.collapsed-for-mosdepth.bed">mosdepth BED file for Inf. B virus Victoria [B/Brisbane/60/2008]</li>
 </ul>
 
 <br>
